@@ -2,7 +2,7 @@ const { readData, writeData } = require("../utils/fileHelper");
 
 exports.getAllGames = (req, res) => {
   const data = readData();
-  res.json(data.record);
+  res.json(data); // Return the entire data object
 };
 
 exports.addGame = (req, res) => {
