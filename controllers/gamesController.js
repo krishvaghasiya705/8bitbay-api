@@ -7,9 +7,45 @@ exports.getAllGames = (req, res) => {
 
 exports.addGame = (req, res) => {
   const data = readData();
-  const newGame = { ...req.body, id: Date.now().toString() };
+
+  // Define the new game structure
+  const newGame = {
+    name: req.body.name || "",
+    version: req.body.version || "",
+    includes: req.body.includes || [""],
+    id: Date.now().toString(),
+    tags: req.body.tags || [""],
+    companies: req.body.companies || [""],
+    language: req.body.language || "",
+    original_size: req.body.original_size || "",
+    repack_size: req.body.repack_size || "",
+    download_links: {
+      direct_links: req.body.download_links?.direct_links || [
+        { link: "", link_name: "", text: "" },
+        { link: "", link_name: "", text: "" },
+        { link: "", link_name: "", text: "" },
+      ],
+      torrent: req.body.download_links?.torrent || [
+        { link: "", link_name: "", text: "" },
+      ],
+    },
+    banner_image: req.body.banner_image || "",
+    images: req.body.images || [""],
+    imagevid: req.body.imagevid || "",
+    repack_details: {
+      title: req.body.repack_details?.title || "",
+      features: req.body.repack_details?.features || [""],
+    },
+    game_details: {
+      description: req.body.game_details?.description || "",
+      no_return_mode: req.body.game_details?.no_return_mode || "",
+      features: req.body.game_details?.features || [""],
+    },
+  };
+
   data.record.push(newGame);
   writeData(data);
+
   res.status(201).json(newGame);
 };
 
