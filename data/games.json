@@ -291,6 +291,114 @@
         " Horror"
       ],
       "version": "v1.1.3; 2"
-    }
+    },
+    {
+  "0": {
+    "images": "http://s01.riotpixels.net/data/5f/e5/5fe56fad-64db-476d-a96e-94fe855f0dca.jpg.240p.jpg"
+  },
+  "1": {
+    "images": "http://s01.riotpixels.net/data/5f/e5/5fe56fad-64db-476d-a96e-94fe855f0dca.jpg.240p.jpg"
+  },
+  "banner_image": "https://i1.imageban.ru/out/2025/02/01/ce3eb009b8bc0534e519a5c6e0dbcb48.jpg",
+  "companies": [
+    "Insomniac Games, Nixxes Software, Sony Interactive Entertainment"
+  ],
+  "download_links": {
+    "0": {
+      "torrent": "admin.jsx:58 Uncaught TypeError: Cannot set properties of undefined (setting 'direct_links')     at admin.jsx:58:27     at Array.forEach (<anonymous>)     at handleArrayChange (admin.jsx:56:10)     at onChange (admin.jsx:161:19)     at HTMLUnknownElement.callCallback2 (chunk-GKJBSOWT.js?v=55f267ca:3674:22)     at Object.invokeGuardedCallbackDev (chunk-GKJBSOWT.js?v=55f267ca:3699:24)     at invokeGuardedCallback (chunk-GKJBSOWT.js?v=55f267ca:3733:39)     at invokeGuardedCallbackAndCatchFirstError (chunk-GKJBSOWT.js?v=55f267ca:3736:33)     at executeDispatch (chunk-GKJBSOWT.js?v=55f267ca:7014:11)     at processDispatchQueueItemsInOrder (chunk-GKJBSOWT.js?v=55f267ca:7034:15) (anonymous) @ admin.jsx:58 handleArrayChange @ admin.jsx:56 onChange @ admin.jsx:161 callCallback2 @ chunk-GKJBSOWT.js?v=55f267ca:3674 invokeGuardedCallbackDev @ chunk-GKJBSOWT.js?v=55f267ca:3699 invokeGuardedCallback @ chunk-GKJBSOWT.js?v=55f267ca:3733 invokeGuardedCallbackAndCatchFirstError @ chunk-GKJBSOWT.js?v=55f267ca:3736 executeDispatch @ chunk-GKJBSOWT.js?v=55f267ca:7014 processDispatchQueueItemsInOrder @ chunk-GKJBSOWT.js?v=55f267ca:7034 processDispatchQueue @ chunk-GKJBSOWT.js?v=55f267ca:7043 dispatchEventsForPlugins @ chunk-GKJBSOWT.js?v=55f267ca:7051 (anonymous) @ chunk-GKJBSOWT.js?v=55f267ca:7174 batchedUpdates$1 @ chunk-GKJBSOWT.js?v=55f267ca:18913 batchedUpdates @ chunk-GKJBSOWT.js?v=55f267ca:3579 dispatchEventForPluginEventSystem @ chunk-GKJBSOWT.js?v=55f267ca:7173 dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-GKJBSOWT.js?v=55f267ca:5478 dispatchEvent @ chunk-GKJBSOWT.js?v=55f267ca:5472 dispatchDiscreteEvent @ chunk-GKJBSOWT.js?v=55f267ca:5449 chunk-GKJBSOWT.js?v=55f267ca:3750 Uncaught TypeError: Cannot set properties of undefined (setting 'direct_links')     at admin.jsx:58:27     at Array.forEach (<anonymous>)     at handleArrayChange (admin.jsx:56:10)     at onChange (admin.jsx:161:19)     at HTMLUnknownElement.callCallback2 (chunk-GKJBSOWT.js?v=55f267ca:3674:22)     at Object.invokeGuardedCallbackDev (chunk-GKJBSOWT.js?v=55f267ca:3699:24)     at invokeGuardedCallback (chunk-GKJBSOWT.js?v=55f267ca:3733:39)     at invokeGuardedCallbackAndCatchFirstError (chunk-GKJBSOWT.js?v=55f267ca:3736:33)     at executeDispatch (chunk-GKJBSOWT.js?v=55f267ca:7014:11)     at processDispatchQueueItemsInOrder (chunk-GKJBSOWT.js?v=55f267ca:7034:15) (anonymous) @ admin.jsx:58 handleArrayChange @ admin.jsx:56 onChange @ admin.jsx:161 callCallback2 @ chunk-GKJBSOWT.js?v=55f267ca:3674 invokeGuardedCallbackDev @ chunk-GKJBSOWT.js?v=55f267ca:3699 invokeGuardedCallback @ chunk-GKJBSOWT.js?v=55f267ca:3733 invokeGuardedCallbackAndCatchFirstError @ chunk-GKJBSOWT.js?v=55f267ca:3736 executeDispatch @ chunk-GKJBSOWT.js?v=55f267ca:7014 processDispatchQueueItemsInOrder @ chunk-GKJBSOWT.js?v=55f267ca:7034 processDispatchQueue @ chunk-GKJBSOWT.js?v=55f267ca:7043 dispatchEventsForPlugins @ chunk-GKJBSOWT.js?v=55f267ca:7051 (anonymous) @ chunk-GKJBSOWT.js?v=55f267ca:7174 batchedUpdates$1 @ chunk-GKJBSOWT.js?v=55f267ca:18913 batchedUpdates @ chunk-GKJBSOWT.js?v=55f267ca:3579 dispatchEventForPluginEventSystem @ chunk-GKJBSOWT.js?v=55f267ca:7173 dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-GKJBSOWT.js?v=55f267ca:5478 dispatchEvent @ chunk-GKJBSOWT.js?v=55f267ca:5472 dispatchDiscreteEvent @ chunk-GKJBSOWT.js?v=55f267ca:5449",
+      "direct_links": "admin.jsx:58 Uncaught TypeError: Cannot set properties of undefined (setting 'direct_links')     at admin.jsx:58:27     at Array.forEach (<anonymous>)     at handleArrayChange (admin.jsx:56:10)     at onChange (admin.jsx:161:19)     at HTMLUnknownElement.callCallback2 (chunk-GKJBSOWT.js?v=55f267ca:3674:22)     at Object.invokeGuardedCallbackDev (chunk-GKJBSOWT.js?v=55f267ca:3699:24)     at invokeGuardedCallback (chunk-GKJBSOWT.js?v=55f267ca:3733:39)     at invokeGuardedCallbackAndCatchFirstError (chunk-GKJBSOWT.js?v=55f267ca:3736:33)     at executeDispatch (chunk-GKJBSOWT.js?v=55f267ca:7014:11)     at processDispatchQueueItemsInOrder (chunk-GKJBSOWT.js?v=55f267ca:7034:15) (anonymous) @ admin.jsx:58 handleArrayChange @ admin.jsx:56 onChange @ admin.jsx:161 callCallback2 @ chunk-GKJBSOWT.js?v=55f267ca:3674 invokeGuardedCallbackDev @ chunk-GKJBSOWT.js?v=55f267ca:3699 invokeGuardedCallback @ chunk-GKJBSOWT.js?v=55f267ca:3733 invokeGuardedCallbackAndCatchFirstError @ chunk-GKJBSOWT.js?v=55f267ca:3736 executeDispatch @ chunk-GKJBSOWT.js?v=55f267ca:7014 processDispatchQueueItemsInOrder @ chunk-GKJBSOWT.js?v=55f267ca:7034 processDispatchQueue @ chunk-GKJBSOWT.js?v=55f267ca:7043 dispatchEventsForPlugins @ chunk-GKJBSOWT.js?v=55f267ca:7051 (anonymous) @ chunk-GKJBSOWT.js?v=55f267ca:7174 batchedUpdates$1 @ chunk-GKJBSOWT.js?v=55f267ca:18913 batchedUpdates @ chunk-GKJBSOWT.js?v=55f267ca:3579 dispatchEventForPluginEventSystem @ chunk-GKJBSOWT.js?v=55f267ca:7173 dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-GKJBSOWT.js?v=55f267ca:5478 dispatchEvent @ chunk-GKJBSOWT.js?v=55f267ca:5472 dispatchDiscreteEvent @ chunk-GKJBSOWT.js?v=55f267ca:5449 chunk-GKJBSOWT.js?v=55f267ca:3750 Uncaught TypeError: Cannot set properties of undefined (setting 'direct_links')     at admin.jsx:58:27     at Array.forEach (<anonymous>)     at handleArrayChange (admin.jsx:56:10)     at onChange (admin.jsx:161:19)     at HTMLUnknownElement.callCallback2 (chunk-GKJBSOWT.js?v=55f267ca:3674:22)     at Object.invokeGuardedCallbackDev (chunk-GKJBSOWT.js?v=55f267ca:3699:24)     at invokeGuardedCallback (chunk-GKJBSOWT.js?v=55f267ca:3733:39)     at invokeGuardedCallbackAndCatchFirstError (chunk-GKJBSOWT.js?v=55f267ca:3736:33)     at executeDispatch (chunk-GKJBSOWT.js?v=55f267ca:7014:11)     at processDispatchQueueItemsInOrder (chunk-GKJBSOWT.js?v=55f267ca:7034:15) (anonymous) @ admin.jsx:58 handleArrayChange @ admin.jsx:56 onChange @ admin.jsx:161 callCallback2 @ chunk-GKJBSOWT.js?v=55f267ca:3674 invokeGuardedCallbackDev @ chunk-GKJBSOWT.js?v=55f267ca:3699 invokeGuardedCallback @ chunk-GKJBSOWT.js?v=55f267ca:3733 invokeGuardedCallbackAndCatchFirstError @ chunk-GKJBSOWT.js?v=55f267ca:3736 executeDispatch @ chunk-GKJBSOWT.js?v=55f267ca:7014 processDispatchQueueItemsInOrder @ chunk-GKJBSOWT.js?v=55f267ca:7034 processDispatchQueue @ chunk-GKJBSOWT.js?v=55f267ca:7043 dispatchEventsForPlugins @ chunk-GKJBSOWT.js?v=55f267ca:7051 (anonymous) @ chunk-GKJBSOWT.js?v=55f267ca:7174 batchedUpdates$1 @ chunk-GKJBSOWT.js?v=55f267ca:18913 batchedUpdates @ chunk-GKJBSOWT.js?v=55f267ca:3579 dispatchEventForPluginEventSystem @ chunk-GKJBSOWT.js?v=55f267ca:7173 dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-GKJBSOWT.js?v=55f267ca:5478 dispatchEvent @ chunk-GKJBSOWT.js?v=55f267ca:5472 dispatchDiscreteEvent @ chunk-GKJBSOWT.js?v=55f267ca:5449"
+    },
+    "direct_links": [
+      {
+        "0": {
+          "link": "https://paste.fitgirl-repacks.site/?f33a793f8122872c#LQAjXnQ8jyngF5cJHcwetYCYZ2AnTjfjvuL2nLLp9p6"
+        },
+        "link_name": "Filehoster: DataNodes",
+        "text": "(speed & usability use IDM)"
+      },
+      {
+        "1": {
+          "link": "https://paste.fitgirl-repacks.site/?aa7ee62c43546e4f#HdgTUYUKFGRt2uVMyfx4i2KaZ8eS31oLoUJwzMaZqKJ7"
+        },
+        "link_name": "Filehoster: FuckingFast",
+        "text": "(REALLY Fucking Fast 🙂)"
+      },
+      {
+        "2": {
+          "link": "https://paste.fitgirl-repacks.site/?b337bce5be1e6f4e#HxuLJrejeyTh3BnuquFYH5JT3AufsJFQYsvboEb9NF2a"
+        },
+        "link_name": "Filehoster: MultiUpload",
+        "text": "(10+ hosters, interchangeable use JDownloader2)"
+      }
+    ],
+    "torrent": [
+      {
+        "0": {
+          "link": "https://paste.fitgirl-repacks.site/?517a88be8b436b9e#QmqjEg6DuTZTx3TCbTHJNZQkaxFVP6M6f554f64jMHb"
+        },
+        "1": {
+          "link": "dddddddd"
+        },
+        "link_name": "Filehoster: Torrent file only",
+        "text": "(speed & usability use Utorrent)"
+      }
+    ]
+  },
+  "game_details": {
+    "description": "Be Greater. Together. The incredible power of the symbiote forces Peter Parker and Miles Morales into a desperate fight as they balance their lives, friendships, and their duty to protect in an exciting chapter of the critically acclaimed Spider-Man franchise on PC.\nSpider-Sense tingling… Mask-up for more thrilling web-slinging heroics as Marvel’s Spider-Man 2 swings onto PC. Developed by Insomniac Games in collaboration with Marvel, and optimized for PC by Nixxes Software.\n\nA city under siege! – Spider-Men Peter Parker and Miles Morales face the ultimate test of strength inside and outside the mask as they fight to save the city, each other and the ones they love, from the monstrous Venom and the dangerous new symbiote threat.\n\nTraverse an expanded Marvel’s New York – Explore a larger Marvel’s New York than ever before, featuring two new boroughs – Brooklyn and Queens – as well as locations like Coney Island, and more. Swing, jump, and utilize the new Web Wings to travel across the city, switching between Peter Parker and Miles Morales in open world exploration to experience different stories and epic new powers.\n\nExperience two playable Spider-Men – Wield Peter’s new symbiote abilities and Miles’ explosive bio-electric venom powers, and discover upgradeable, high-tech equipment that enhances the combat experience for extensive gameplay depth and variety.\n\nBattle iconic Marvel Super Villains – Fight against a variety of new and iconic villains, including an original take on the monstrous Venom, the ruthless Kraven the Hunter, the volatile Lizard, and many more!\n\nA more accessible Spider-Man experience – Support for a range of accessibility features strives to create a Marvel’s Spider-Man experience without barriers, that can be enjoyed by more players of different abilities.",
+    "features": [
+      "PC optimized graphics – Save the day in style with your choice of graphical quality options, as well as unlocked framerates for smooth Super-Hero antics. Enjoy support for performance-enhancing technologies including NVIDIA DLSS 3 and AMD FSR 3.1 upscaling and frame generation. Intel XeSS upscaling is also supported.",
+      "Improved ray-tracing – Ray-traced reflections, ray-traced shadows and ray-traced ambient occlusion bring the sights of Marvel’s New York to life all around you. Choose from a selection of quality modes and take in the breathtaking views from up high. For NVIDIA GeForce RTX GPU users, DLSS Ray Reconstruction is available. This technique uses an NVIDIA supercomputer-trained AI network that generates higher-quality pixels in between sampled rays, resulting in sharper and more accurate ray-traced images.",
+      "Ultra-wide monitor support – Discover great image clarity through support for a range of screen setups, including 16:9, 16:10, 21:9, 32:9, and 48:9 resolutions with triple monitor setups using NVIDIA Surround or AMD Eyefinity.",
+      "PlayStation overlay and trophies – The PlayStation overlay is available for Windows PC players to earn PlayStation Trophies and access Friends lists, settings, and player profile. Press the Shift key and F1 key shortcut or follow the in-game menu to open the overlay.",
+      "Controls and customization – Feel the true power of Spider-Man with the PlayStation DualSense® controller on a wired USB connection, or full mouse and keyboard support.",
+      "DualSense haptic feedback – The responsive vibrations of the DualSense controller bring Peter Parker’s symbiote abilities and Miles Morales’ bio-electric skills to your fingertips.",
+      "DualSense adaptive triggers – Master acrobatic moves, execute thrilling combos, and experience the breathtaking excitement of web-swinging traversal through the DualSense controller’s adaptive triggers."
+    ],
+    "no_return_mode": ""
+  },
+  "id": "4",
+  "imagevid": "",
+  "images": [
+    "http://s01.riotpixels.net/data/5f/e5/5fe56fad-64db-476d-a96e-94fe855f0dca.jpg.240p.jpg",
+    "http://s01.riotpixels.net/data/08/07/080734dd-a401-49d6-a8d7-322ed6b9db93.jpg.240p.jpg",
+    "http://s01.riotpixels.net/data/6b/06/6b063095-9d37-4206-876a-74813ebc01c0.jpg.240p.jpg",
+    "http://s01.riotpixels.net/data/17/2d/172d1e88-0ee3-4187-8cd3-e941e0b6a925.jpg.240p.jpg",
+    "http://s01.riotpixels.net/data/4a/6e/4a6e0173-bd18-4f85-b0ea-3f76dd48def3.jpg.240p.jpg",
+    "http://s01.riotpixels.net/data/72/37/72378c72-d942-44fd-9da9-1d1e6c7263bc.jpg.240p.jpg"
+  ],
+  "includes": [
+    "DLC, Bonus OST"
+  ],
+  "language": "RUS/ENG/MULTI26",
+  "name": "Marvel’s Spider-Man 2: Digital Deluxe Edition, v1.130.1.0/v1.131.0.0 + 2 DLCs + Unlocker + Bonus Soundtrack",
+  "original_size": "124.3 GB",
+  "repack_details": {
+    "features": [
+      "Based on Marvels.Spider-Man.2-RUNE ISO release: rune-marvels.spiderman.2.iso (101,088,722,944 bytes)",
+      "Marvels.Spider-Man.2.Language.Pack-RUNE (31,765,439,654 GB) applied over",
+      "Update to v1.131.0.0 (366 MB) added, thanks to ElAmigos! To use it, copy contents of “_Update to v1.131.0” folder to the game root",
+      "Bonus Soundtrack (184 MB) added",
+      "PSN Bonus Costumes unlocker added, thanks to ⎝⎝✧GͥOͣDͫ✧⎠⎠! To use it, run the game once, then copy files from “unlock_psn_bonuses” folder to “C:\\Users\\YOUR USERNAME\\Documents\\Marvel’s Spider-Man 2\\DIGITS\\” folder, where DIGITS folder will have a random name. Unlocking is done via custom save file, so beginning of the story will be skipped with this save",
+      "Game version: v1.131.0.0/v1.131.0.0; 2 DLCs (PC Purchase Perks & Digital Deluxe Upgrade) are included",
+      "100% Lossless & MD5 Perfect: all files are identical to originals after installation",
+      "NOTHING ripped, NOTHING re-encoded",
+      "Selective Download feature: you may skip downloading and installing of bonus soundtrack and voiceover packs you don’t need. English VOs are included by default",
+      "Significantly smaller archive size (compressed from cumulative 124.3 to 64.5~87.9 GB, depending on selected components)",
+      "Installation takes from 30 minutes (on 32-threads CPU + SSD) up to 2 hours (on 4-threads CPU + HDD)",
+      "After-install integrity check so you could make sure that everything installed properly",
+      "HDD space after installation: up to 137.6 GB",
+      "Use “language.changer.exe” in game root to change the game language",
+      "Repack uses XTool library by Razor12911",
+      "At least 2 GB of free RAM (inc. virtual) required for installing this repack"
+    ],
+    "title": "Repack Features"
+  },
+  "repack_size": "from 64.5 GB [Selective Download]",
+  "tags": [
+    "Action, Open world, Third person, 3D"
+  ],
+  "version": " v1.131.0.000"
+}
   ]
 }
