@@ -384,6 +384,95 @@
         "3D"
       ],
       "version": "v1.131.0.000"
+    },
+    {
+      "banner_image": "https://i7.imageban.ru/out/2025/03/12/90fb6100dc58091d64944822daa166fe.jpg",
+      "companies": [
+        "Team Ninja",
+        "Koei Tecmo Games"
+      ],
+      "download_links": {
+        "direct_links": [
+          {
+            "link": "https://paste.fitgirl-repacks.site/?b351a5a74f6cf957#4haa7eMgRHW3F17mStKXDtTaTsGnET673Zf7fDZisQVp",
+            "link_name": "Filehoster: DataNodes",
+            "text": "(speed & usability use IDM)"
+          },
+          {
+            "link": "https://paste.fitgirl-repacks.site/?fa372f47bad2fe12#Hbc1XJ6jkx8KcA4eAcwfm1sZwdYVBBBih1dNLMjE2RLz",
+            "link_name": "Filehoster: FuckingFast",
+            "text": "(REALLY Fucking Fast 🙂)"
+          },
+          {
+            "link": "https://paste.fitgirl-repacks.site/?524523f1ff0133e0#9ux5LehQ8N19YqyDTsTexPuFEC8pLKHyuUHCy2YgrUTL",
+            "link_name": "Filehoster: MultiUpload",
+            "text": "(10+ hosters, interchangeable use JDownloader2)"
+          }
+        ],
+        "torrent": [
+          {
+            "link": "https://paste.fitgirl-repacks.site/?fb0fb94a57008917#ENfAGzYty1ZZGmRiPmK19bbASBYbadqToGrhueSpjr2G",
+            "link_name": "Filehoster: Torrent file only",
+            "text": "(speed & usability use Utorrent)"
+          }
+        ]
+      },
+      "game_details": {
+        "description": "An open-world RPG set in the Bakumatsu period, where players take on the role of a ronin forging their own destiny. The game features multiple possible endings, allowing players to choose which faction to support – such as the anti-shogunate faction, pro-shogunate faction, or Western forces – which significantly alters the story’s outcome.\nJapan, 1863. After three centuries of the Tokugawa Shogunate’s reign, the Black Ships of the West descend upon the nation’s borders and the country falls into a state of turmoil. Amidst the chaos of war, disease, and political unrest, a nameless warrior forges their own path, holding the very fate of Japan in their hands.\n\n",
+        "features": [
+          "Shape your own story. As a nameless warrior – a ronin – your destiny evolves based on the choices you make. You will encounter historical figures and factions with various ideologies, such as the anti-shogunate faction leader Ryoma Sakamoto and the shogunate-affiliated organization Shinsengumi led by Isami Kondo, allowing you to experience the tumultuous Bakumatsu period. You will face significant decisions, such as whether to assassinate or protect key figures like Naosuke Ii, and craft your own history through a multi-ending system.",
+          "Customize your weapons and combat styles. You can choose from various melee weapons like katana, spear, and odachi, each with multiple combat styles. By freely combining these based on enemies’ weapons and your own combat style, you can enjoy a wide range of tactics. There are also ranged weapons like guns and bows, which you must use strategically according to the situation.",
+          "Explore beautiful cities in an open world. In the mixed cultural landscape of Edo, Yokohama, and Kyoto during the Bakumatsu period, you can explore stunning scenery with seasonal changes like cherry blossoms and autumn leaves. You can use a grappling rope to climb onto rooftops and the glider Avicula to glide through the air. Additionally, you can capture your favorite views using Photo Mode.",
+          "Customize your character. From their facial features, hair, and makeup to their body shape and voice, the protagonist – your Veiled Edge – is yours to create. As you progress through the story, you’ll acquire new clothing and gear to customize their appearance further."
+        ],
+        "no_return_mode": ""
+      },
+      "id": "5",
+      "imagevid": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1340990/extras/action.gif",
+      "images": [
+        "http://s01.riotpixels.net/data/e7/c6/e7c6a9fc-fd74-42ce-9217-347270b7e1ca.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/49/4d/494dbe83-fd4a-4c0f-8016-cdbe414e016d.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/74/7c/747c642c-92bd-4bcf-a42a-8d014fd4fa57.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/b1/5d/b15dc87f-9d77-48f9-9bd1-6106bbe612a2.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/6c/91/6c914ff2-9c3e-4828-9718-5ec174b8f04d.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/b9/f7/b9f71d21-8c5e-4649-9b35-86c992e88d37.jpg.240p.jpg"
+      ],
+      "includes": [
+        "DLC",
+        "Bonus OST"
+      ],
+      "language": "RUS/ENG/MULTI21",
+      "name": "Rise of the Ronin, v1.09 + DLC + Bonus Soundtrack",
+      "original_size": "163.5 GB",
+      "repack_details": {
+        "features": [
+          "Based on Rise.of.the.Ronin-TENOKE ISO release: tenoke-rise.of.the.ronin.iso (160,240,027,648 bytes)",
+          "Game version: v1.09; Early Purchase Bonus DLC is included and activated",
+          "Missing localizations (13.9 GB), thanks to AR-81!",
+          "Bonus Soundtrack (368 MB) added, thanks to Deezer!",
+          "100% Lossless & MD5 Perfect: all files are identical to originals after installation",
+          "NOTHING ripped, NOTHING re-encoded",
+          "Selective Download feature: you may skip downloading and installing of voiceover packs you don’t need (English & Japanese are included by default), optional videos (tutorials/encyclopedia & videos in 30 FPS, 60 FPS videos are included by default) and bonus soundtrack",
+          "If you don’t install optional videos, in game video settings change “FPS Limit (Cutscenes)” option from 30 to 60, otherwise video and audio in cutscenes will be out of sync",
+          "Significantly smaller archive size (compressed from cumulative 163.5 to 51.3~71.3 GB, depending on selected components)",
+          "Installation takes from 12 minutes (on 16-threads CPU + SSD) up to 45 minutes (on 4-threads CPU + HDD)",
+          "After-install integrity check so you could make sure that everything installed properly",
+          "HDD space after installation: up to 163.5 GB",
+          "Language can be changed in game settings",
+          "Repack uses XTool library by Razor12911",
+          "At least 2 GB of free RAM (inc. virtual) required for installing this repack"
+        ],
+        "title": "Repack Features"
+      },
+      "repack_size": "from 51.3 GB [Selective Download]",
+      "tags": [
+        "RPG",
+        "Action RPG",
+        "Open world",
+        "Third person",
+        "3D"
+      ],
+      "version": "v1.09"
     }
   ]
 }
