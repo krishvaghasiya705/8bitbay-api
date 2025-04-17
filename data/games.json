@@ -473,6 +473,90 @@
         "3D"
       ],
       "version": "v1.09"
+    },
+    {
+      "banner_image": "https://i1.imageban.ru/out/2024/05/02/5b8d83058def6c33d3c5b3e7ae36fd4b.jpg",
+      "companies": [
+        "Rockstar North",
+        "Rockstar San Diego"
+      ],
+      "download_links": {
+        "direct_links": [
+          {
+            "link": "https://paste.fitgirl-repacks.site/?b43b344217d54267#2SLr856jMLjtpDm2Gy9jCHiPDRTa8DXSC5wEHn8hWYtB",
+            "link_name": "Filehoster: DataNodes",
+            "text": "(speed & usability use IDM)"
+          },
+          {
+            "link": "https://paste.fitgirl-repacks.site/?d38d0ebceb00c942#85FJce51vHjLu8wHF17hqCcRq95B2haHsp1j8JbpYzN2",
+            "link_name": "Filehoster: FuckingFast",
+            "text": "(REALLY Fucking Fast 🙂)"
+          },
+          {
+            "link": "https://paste.fitgirl-repacks.site/?122d28383471d85c#9EJGsFFcXD4Qgc4wJSvmgo43EXVXMAV9wpzahuHu2BP4",
+            "link_name": "Filehoster: MultiUpload",
+            "text": "(10+ hosters, interchangeable use JDownloader2)"
+          }
+        ],
+        "torrent": [
+          {
+            "link": "https://paste.fitgirl-repacks.site/?55198f231f4f8d0d#BEnfsaFuWYDjKSKFX4KKBCavD38HwZvpB77yPVnma1CF",
+            "link_name": "Filehoster: Torrent file only",
+            "text": "(speed & usability use Utorrent)"
+          }
+        ]
+      },
+      "game_details": {
+        "description": "Arthur Morgan and the Van der Linde gang are outlaws on the run. With federal agents and the best bounty hunters in the nation massing on their heels, the gang must rob, steal and fight their way across the rugged heartland of America in order to survive. As deepening internal divisions threaten to tear the gang apart, Arthur must make a choice between his own ideals and loyalty to the gang who raised him.\n\nNow featuring additional Story Mode content and a fully-featured Photo Mode, Red Dead Redemption 2 also includes free access to the shared living world of Red Dead Online, where players take on an array of roles to carve their own unique path on the frontier as they track wanted criminals as a Bounty Hunter, create a business as a Trader, unearth exotic treasures as a Collector or run an underground distillery as a Moonshiner and much more.\n\nWith all new graphical and technical enhancements for deeper immersion, Red Dead Redemption 2 for PC takes full advantage of the power of the PC to bring every corner of this massive, rich and detailed world to life including increased draw distances; higher quality global illumination and ambient occlusion for improved day and night lighting; improved reflections and deeper, higher resolution shadows at all distances; tessellated tree textures and improved grass and fur textures for added realism in every plant and animal.\n\nRed Dead Redemption 2 for PC also offers HDR support, the ability to run high-end display setups with 4K resolution and beyond, multi-monitor configurations, widescreen configurations, faster frame rates and more.",
+        "features": [
+          ""
+        ],
+        "no_return_mode": ""
+      },
+      "id": "6",
+      "imagevid": "",
+      "images": [
+        "http://s01.riotpixels.net/data/b3/34/b334bffd-9ff9-4511-883c-f56562506f77.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/60/f9/60f9fe78-2879-4ce0-9b88-917ac3d47cbd.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/0a/70/0a708487-623c-4982-9f3e-4f4ab0c9e9a4.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/40/08/40089b36-e985-4925-9ed9-7bc5b1dc8691.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/54/4e/544e8efc-2a10-49df-b3c3-99c0099205ce.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/74/9a/749a3997-23c3-400e-88d1-554f2ed08135.jpg.240p.jpg"
+      ],
+      "includes": [
+        "DLC",
+        "Bonus OST"
+      ],
+      "language": "RUS/ENG/MULTI13",
+      "name": "Red Dead Redemption 2: Ultimate Edition – Build 1491.50 + UE Unlocker",
+      "original_size": "119.4 GB",
+      "repack_details": {
+        "features": [
+          "Based on Red_Dead_Redemption_2_Ultimate_Edition-Razor1911 ISO release: rzr-reddeadredemption2.iso (128,253,820,928 bytes)",
+          "No-intro Launcher.exe applied over, thanks to machine4578! Original Razor’s one preserved for purists in the root folder",
+          "Game version is Build 1491.50",
+          "All offline “DLCs” of Ultimate Edition are included, but must be activated with a special unlocking file – check “readme.txt” in the “_Unlocker” after installation",
+          "100% Lossless & MD5 Perfect: all files are identical to originals after installation",
+          "NOTHING ripped, NOTHING re-encoded",
+          "Significantly smaller archive size (compressed from 119.4 to 68.8 GB)",
+          "Installation takes: ~1 hour (24-threads CPU + SSD); ~1 hour 50 minutes (16-threads CPU + HDD); up to 5 hours (4-threads CPU + HDD)",
+          "After-install integrity check so you could make sure that everything installed properly",
+          "HDD space after installation: 119.3 GB",
+          "Language is automatically set by detecting your system locale. To force specific language, run one of “Force” language BAT-files in the game root",
+          "Use ONLY “Launcher.exe” in the game root to launch the game",
+          "Repack uses compression library by Razor12911",
+          "At least 3 GB of free RAM (inc. virtual) required for installing this repack"
+        ],
+        "title": "Repack Features"
+      },
+      "repack_size": "68.8 GB",
+      "tags": [
+        "Action",
+        "Shooter",
+        "Open world",
+        "3D"
+      ],
+      "version": "v1491.50"
     }
   ]
 }
