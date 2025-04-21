@@ -1741,6 +1741,96 @@
         "Japanese"
       ],
       "version": "v1.03"
+    },
+    {
+      "banner_image": "https://i4.imageban.ru/out/2022/10/20/901d5b6538563a6754a7231afa16e2c5.jpg",
+      "companies": [
+        "Naughty Dog LLC",
+        "Iron Galaxy Studios",
+        "PlayStation PC LLC"
+      ],
+      "download_links": {
+        "direct_links": [
+          {
+            "link": "https://paste.fitgirl-repacks.site/?ba1477517814cf15#9P5P55ni9bwV2WULTTMzjY74jumLQkeJj4dLQrwxmc1Y",
+            "link_name": "Filehoster: DataNodes",
+            "text": "(Speed & Usability)"
+          },
+          {
+            "link_name": "Filehoster: FuckingFast",
+            "text": "(REALLY Fucking Fast 🙂)",
+            "link": "https://pastefg.hermietkreeft.site/?0108aea5bbbdcd19#HBFq28urDFMX9MGJEjBudiDVfsewctt67zVqYg4qmKQ8"
+          },
+          {
+            "link_name": "Filehoster: MultiUpload",
+            "text": "(10+ hosters, interchangeable use JDownloader2)",
+            "link": "https://paste.fitgirl-repacks.site/?4dd0f4a6b614c1b9#32Kj9TrJiKbG14inPsbmDhcvp3zoyauDZPUxSH7jhEBs"
+          }
+        ],
+        "torrent": [
+          {
+            "link": "https://pastefg.hermietkreeft.site/?cac4de308c169c6a#C9ievvRYUhvp7nvoRhF9bLJeSXfwd15C7kY5VcX17NuG",
+            "link_name": "Filehoster: Torrent file only",
+            "text": "(speed & usability use Utorrent)"
+          }
+        ]
+      },
+      "game_details": {
+        "description": "UNCHARTED: The Lost Legacy\nIn order to recover an ancient artifact and keep it out of the hands of a ruthless warmonger, Chloe Frazer must enlist the aid of renowned mercenary Nadine Ross and venture to India’s Western Ghats to locate the Golden Tusk of Ganesh. In Chloe’s greatest journey yet, she must confront her past and decide what she’s willing to sacrifice to forge her own legacy.",
+        "features": [
+          "Discover the breath-taking sights: From thick jungles to snow-capped mountains, exotic islands to rain-soaked streets, explore every inch of stunningly beautiful environments in spectacular detail. Immerse yourself in the cinematic storytelling with super-sharp 4K resolution*, and Ultra-Wide Monitor support**. Enjoy a host of enhanced graphical adjustment features such as adjustable Texture and Model Quality, Anisotropic Filtering, Shadows, Reflections and Ambient Occlusion.",
+          "Feel the thrilling gameplay in your hands: Experience haptic feedback and dynamic trigger effects designed for UNCHARTED: Legacy of Thieves Collection by playing with the DualSense™ controller through a wired connection to your PC. With full control remapping and support for the DualShock®4 controller ***, XInput Game Controllers, and a wide range of other gamepads and keyboard and mouse, you can leave your mark on the map any way you like. For those that want to brighten things up even more, try out RGB support for Razer Chroma peripherals and Chroma Link compatible devices, as well as for Logitech models.",
+          "Optimize the adventure: Unearth a wide variety of modes and PC-centric enhancements such as improved UI for game options, reimagined user interfaces, the addition of scale sliders for some menus, GPU and VRAM detection and management options, as well as adding Auto Pause, Minimize in Background and Variable Load Speed support along with a host of other additions.",
+          "AMD Fidelity FX Super Resolution 2: Supercharge your framerates as you seek your fortune as Nathan and Chloe with next-level temporal upscaling technology from AMD. FSR 2 uses cutting-edge algorithms to boost your framerates and deliver high-quality, high-resolution game experiences in UNCHARTED across a wide range of compatible graphics cards."
+        ],
+        "no_return_mode": ""
+      },
+      "id": "19",
+      "imagevid": "",
+      "images": [
+        "http://s01.riotpixels.net/data/5d/30/5d300c1d-cc67-48ae-aba2-55d7f48839e2.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/16/33/16338071-6b40-4bca-ac9b-343b34420c10.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/29/cf/29cf79c3-0d61-4335-b65f-aaf7ba7de2ff.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/14/50/1450f81f-bd37-4432-b2e2-f1c521d7aaf4.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/90/e8/90e85329-6d7d-4dc3-9d52-b2008398efc3.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/46/87/4687b1db-4319-4fe5-8563-03115226d470.jpg.240p.jpg"
+      ],
+      "includes": [
+        "DLC",
+        "Bonus OST"
+      ],
+      "language": "RUS/ENG/MULTI21",
+      "name": "UNCHARTED: Legacy of Thieves Collection – v1.0.20122 + Bonus Soundtracks",
+      "original_size": "124.5 GB",
+      "repack_details": {
+        "features": [
+          "Based on Steam BuildID 9743695 release: 124 GB, thanks to Carptrainer!",
+          "Game version: v1.0.20122",
+          "Goldberg crack/emu applied over, alternative FLT crack is located in NoDVD folder after installation",
+          "Two bonus soundtracks in MP3 format (241 MB) added, thanks to NoeRIη!",
+          "100% Lossless & MD5 Perfect: all files are identical to originals after installation",
+          "NOTHING ripped, NOTHING re-encoded",
+          "Selective Download feature: you may skip downloading either of two included games, voiceover packs for them and bonus soundtracks",
+          "English voiceovers are included by default, as they also contain atmosheric chatters and sounds",
+          "Significantly smaller archive size (compressed from cumulative 124.5 to 19.6~66.5 GB, depending on selected components)",
+          "Installation takes from 10 minutes (TLL with only English voiceovers) up to 35 minutes (both games, all voiceovers and bonus)",
+          "After-install integrity check so you could make sure that everything installed properly",
+          "HDD space after installation: up to 124.5 GB",
+          "Language can be changed in game settings",
+          "Repack uses compression library by Razor12911",
+          "At least 2 GB of free RAM (inc. virtual) required for installing this repack"
+        ],
+        "title": "Repack Features"
+      },
+      "repack_size": "from 19.6 GB [Selective Download]",
+      "tags": [
+        "Action",
+        "Shooter",
+        "Cover-based",
+        "Third-person",
+        "3D"
+      ],
+      "version": "v1.0.20122"
     }
   ]
 }
