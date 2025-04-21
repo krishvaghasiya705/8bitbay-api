@@ -1563,6 +1563,89 @@
         "3D"
       ],
       "version": "v1.12/v1.12.1"
+    },
+    {
+      "banner_image": "https://i5.imageban.ru/out/2025/04/05/577079506d5cd2ab0d1766fb79bbab74.jpg",
+      "companies": [
+        "Compulsion Games",
+        "Xbox Game Studios"
+      ],
+      "download_links": {
+        "direct_links": [
+          {
+            "link": "https://paste.fitgirl-repacks.site/?7d08810a3b647f1d#Bgt2Xj6Jh46naHpDJ7SiPSrKz2PQr2rT6cJF93wC5Dsw",
+            "link_name": "Filehoster: DataNodes",
+            "text": "(Speed & Usability)"
+          },
+          {
+            "link_name": "Filehoster: FuckingFast",
+            "text": "(REALLY Fucking Fast 🙂)",
+            "link": "https://paste.fitgirl-repacks.site/?6178219e82d3732f#2Gq2wVQnMGAEm8ynocxrQY5obtJzy6Tvy32kcAxEbHYG"
+          },
+          {
+            "link_name": "Filehoster: MultiUpload",
+            "text": "(10+ hosters, interchangeable use JDownloader2)",
+            "link": "https://paste.fitgirl-repacks.site/?e8fdc2ef4d43888e#HwwczuN4VeL9ny5h3rpuDBjpTqq9ZyRN8caB3whNAMRJ"
+          }
+        ],
+        "torrent": [
+          {
+            "link": "https://paste.fitgirl-repacks.site/?b215b716af9533db#9TgEyhfERTuJLAoySHbjVCdWDvUGHBH8y2U7BwErEVHB",
+            "link_name": "Filehoster: Torrent file only",
+            "text": "(speed & usability use Utorrent)"
+          }
+        ]
+      },
+      "game_details": {
+        "description": "South of Midnight is a new action-adventure from Compulsion Games. Explore the mythos and confront mysterious creatures of the Deep South in this modern folktale while learning to weave an ancient power to surmount obstacles and unravel your family’s hidden past.\nFrom the creators of Contrast and We Happy Few, South of Midnight is a spellbinding third person action-adventure game set in the American Deep South.\n\nAs Hazel, you will explore the mythos and encounter creatures of Southern folklore in a macabre and fantastical world. When disaster strikes her hometown, Hazel is called to become a Weaver: a magical mender of broken bonds and spirits. Imbued with these new abilities, Hazel will confront and subdue dangerous creatures, untangle the webs of her own family’s shared past and – if she’s lucky – find her way to a place that feels like home.",
+        "features": [
+          "A DARK MODERN FOLKTALE – When a hurricane rips through Prospero, Hazel is pulled into a Southern Gothic world of memory made real and must embark on a journey to rescue her mother and safeguard her hometown. In this folktale for modern times, Hazel will need to reconcile the weight of family, history, and legacy against her own identity.",
+          "CONFRONT MYTHICAL CREATURES – Wield an ancient power to restore creatures and uncover the traumas that consume them. Cast weaving magic to fight destructive Haints, explore the diverse regions of the South, and reweave the tears in the Grand Tapestry.",
+          "HAUNTING BEAUTY OF THE GOTHIC SOUTH – Discover the lush, decayed county of Prospero and its locals. Experience a crafted visual style, touching storytelling, and immersive music inspired by the complex and rich history of the South."
+        ],
+        "no_return_mode": ""
+      },
+      "id": "17",
+      "imagevid": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1934570/extras/Midnight_Steam_Gif_3_MythicalCreatures_Banner.gif",
+      "images": [
+        "http://s01.riotpixels.net/data/77/cc/77cc4b4d-5a10-4a5e-a54a-fe17e1e8a6a5.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/6e/bf/6ebfe6f2-acb1-4fe1-b8d3-0d53053dfafc.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/bd/06/bd064c03-6db7-4fe6-8048-08d4f1169540.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/73/6b/736bb0ad-58b2-44f7-a096-ae12545bc081.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/92/5d/925dc8fc-fdca-4603-898a-07a949612823.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/61/6e/616eb274-b765-45cf-b688-2a5944890d54.jpg.240p.jpg"
+      ],
+      "includes": [
+        "DLC",
+        "Bonus OST"
+      ],
+      "language": "RUS/ENG/MULTI23",
+      "name": "South of Midnight: Premium Edition – v1.1.0-184977 + 2 DLCs/Bonuses",
+      "original_size": "64.8 GB",
+      "repack_details": {
+        "features": [
+          "Based on South.of.Midnight-RUNE ISO release: rune-south.of.midnight.iso (69,604,311,040 bytes)",
+          "Game version: v1.1.0-184977; 2 DLCs/Bonuses (Soundtrack & Digital Extras) are included",
+          "100% Lossless & MD5 Perfect: all files are identical to originals after installation",
+          "Duplicated bonus content ripped (OST in AAC and FLAC formats, 2 videos in MP4 format), NOTHING re-encoded. The same bonus content is available inside Digital Extras application",
+          "Selective Download feature: you may skip downloading and installing of bonus content (Two PDF files, OST in MP3 format and Digital Extras application)",
+          "Significantly smaller archive size (compressed from 64.8 to 31.9/37.4 GB)",
+          "Installation takes 7-50 minutes (depending on your system and selected components)",
+          "After-install integrity check so you could make sure that everything installed properly",
+          "HDD space after installation: up to 66.2 GB",
+          "Language can be changed in game settings",
+          "Repack uses XTool library by Razor12911",
+          "At least 2 GB of free RAM (inc. virtual) required for installing this repack"
+        ],
+        "title": "Repack Features"
+      },
+      "repack_size": "from 31.9 GB [Selective Download]",
+      "tags": [
+        "Action",
+        "Third person",
+        "3D"
+      ],
+      "version": "v1.1.0"
     }
   ]
 }
