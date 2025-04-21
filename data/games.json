@@ -2095,6 +2095,91 @@
         "3D"
       ],
       "version": "v.1.5.0.0"
+    },
+    {
+      "banner_image": "http://i65.fastpic.ru/big/2014/1231/64/a628e97829ee7132c7d809afc5ca7f64.jpg",
+      "companies": [
+        "Rockstar North / Rockstar Games"
+      ],
+      "download_links": {
+        "direct_links": [
+          {
+            "link": "https://paste.fitgirl-repacks.site/?072787cd33ed3b04#4XCykgCCXvn65tftcNGTDBMVzcU4jrQFgbZ1Ly11sB3k",
+            "link_name": "Filehoster: DataNodes",
+            "text": "(Speed & Usability)"
+          },
+          {
+            "link_name": "Filehoster: FuckingFast",
+            "text": "(REALLY Fucking Fast 🙂)",
+            "link": "https://paste.fitgirl-repacks.site/?09dc28feeaa9545e#7vsKuSkCWtMfoDCjt6UhEj3De9YSEtvLtNkZa7L9GSjU"
+          },
+          {
+            "link_name": "Filehoster: MultiUpload",
+            "text": "(10+ hosters, interchangeable use JDownloader2)",
+            "link": "https://pastefg.hermietkreeft.site/?5eb4dd5107b079a6#7UpNRvBkKTZEGkWLJP86Bvgfq7rG1nqtM7WhMcNJVDpo"
+          }
+        ],
+        "torrent": [
+          {
+            "link": "https://pastefg.hermietkreeft.site/?cf1e6f08495ff548#FD58QaLAjtVpmpHrUiCjLPxjQt9W7HdM1RDDGz1YvjAK",
+            "link_name": "Filehoster: Torrent file only",
+            "text": "(speed & usability use Utorrent)"
+          }
+        ]
+      },
+      "game_details": {
+        "description": "This standalone retail title spans three distinct stories, interwoven to create one of the most unique and engaging single-player experiences of this generation.\nThis definitive Grand Theft Auto bundle boasts hundreds of hours of single-player gameplay; a full suite of open-world multiplayer game types limited only by players’ creativity; dozens of eclectic radio stations with hours of music and original dialogue.",
+        "features": [
+          ""
+        ],
+        "no_return_mode": ""
+      },
+      "id": "23",
+      "imagevid": "",
+      "images": [
+        "http://s01.riotpixels.net/data/0b/a3/0ba3f673-e86c-443d-bc18-c95fad5e190c.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/ad/03/ad03deac-8cae-4ada-a889-72ad39caf367.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/73/1b/731b3b50-12a6-4177-a51c-da83d7715c02.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/49/78/4978e243-03ce-4f10-9591-9e8c48e5f25f.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/24/26/2426b737-2939-49c0-bc16-795a41f3b148.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/c3/9c/c39c2c8a-0408-454d-94ba-8a629a06b200.jpg.240p.jpg"
+      ],
+      "includes": [
+        "DLC",
+        "Bonus OST"
+      ],
+      "language": "RUS/ENG/MULTI7",
+      "name": "GTA 4 / Grand Theft Auto IV: The Complete Edition – v1.2.0.43 + Radio Downgrader + Vanilla Fixes Modpack v1.6.2 + Wrappers",
+      "original_size": "25.6 GB",
+      "repack_details": {
+        "features": [
+          "Based on Rockstar Club version v1.2.0.43: 22.2 GB",
+          "Mr.Goldberg + Christsnatcher crack applied over",
+          "DXVK & DxWrapper ara available in “_Wrappers” folder for better game perfomance; more info on https://ant-sh.blogspot.com/2020/07/gta-4-stutter-choppiness-fix.html",
+          "Radio Downgrader with Calcium (666 MB) added and allows fast switching between new and older radio tracklists, see “Music Stations” of description for details",
+          "Additional mod, allowing using only original Vladivostok FM tracks in GTA4 instead of “combined with Episodes” tracklist, added",
+          "GTAIV Vanilla Fixes v1.6.2 ModPack (2.7 GB) by GTAVI(CE) added as an optional download – adds tons of essential fixes and improvements",
+          "100% Lossless & MD5 Perfect: all files are identical to originals after installation (when playing with current radio sets and without modpack)",
+          "NOTHING ripped, NOTHING re-encoded",
+          "Selective Download feature: you may skip downloading and installing of Vanilla Fixes ModPack. Both variants of radio stations (old and current) are included in the main repack archives",
+          "Significantly smaller archive size (compressed from cumulative 25.6 to 13.2/13.6 GB)",
+          "Installation takes: ~15 minutes on 8-threads CPU; ~30 minutes on 4-threads CPU",
+          "After-install integrity check so you could make sure that everything installed properly",
+          "HDD space after installation: up to 30.1 GB",
+          "You can change the game language by copying “commandline.txt” from correspoding subfolder of “_Language Changer” to the game root",
+          "Repack uses XTool library by Razor12911",
+          "At least 2 GB of free RAM (inc. virtual) required for installing this repack"
+        ],
+        "title": "Repack Features"
+      },
+      "repack_size": "from 13.2 GB [Selective Download]",
+      "tags": [
+        "Action (Shooter)",
+        "3rd Person",
+        "Open World",
+        "3D"
+      ],
+      "version": "v1.2.0.43"
     }
   ]
 }
