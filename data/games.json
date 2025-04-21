@@ -1385,6 +1385,88 @@
         "3D"
       ],
       "version": "v1.70"
+    },
+    {
+      "banner_image": "https://i7.imageban.ru/out/2023/11/07/3ab6e7ed7c0fa2629bcc99077b99ea87.jpg",
+      "companies": [
+        "Starward Industries",
+        "11 bit studios"
+      ],
+      "download_links": {
+        "direct_links": [
+          {
+            "link": "https://paste.fitgirl-repacks.site/?0a968fb37fbee3f2#GvoPbD85VfSjHhiMBqXVYzi9ACfckBNbnV9GK1YK78dg",
+            "link_name": "Filehoster: DataNodes",
+            "text": "(Speed & Usability)"
+          },
+          {
+            "link_name": "Filehoster: FuckingFast",
+            "text": "(REALLY Fucking Fast 🙂)",
+            "link": "https://paste.fitgirl-repacks.site/?159bbc0442368646#ABSsNbUWj1iD8mXGh39vGFFp78ifJpJR6jo4ra1aBfdV"
+          },
+          {
+            "text": "(10+ hosters, interchangeable use JDownloader2)",
+            "link_name": "Filehoster: MultiUpload",
+            "link": "https://paste.fitgirl-repacks.site/?4179cd4c140ed693#4XW1qu19Heav2Ee8yPx61mxmVxotPHziPLqKcqkHnonx"
+          }
+        ],
+        "torrent": [
+          {
+            "link": "https://paste.fitgirl-repacks.site/?dc828481d57bd9b4#HDAua5YYcMYaEJPc3etiWCd9iC65cGcv4Pd5cskBFqh1",
+            "link_name": "Filehoster: Torrent file only",
+            "text": "(speed & usability use Utorrent)"
+          }
+        ]
+      },
+      "game_details": {
+        "description": "You are a highly qualified, sharp-witted astrobiologist named Yasna. Being entangled in a space race, you and your crew end up on the unexplored planet Regis III. The scientific journey quickly turns into a search mission for lost crewmates. Follow its trail, but be fully aware that every decision you make can bring you closer to danger.\nUncover mind-boggling scientific phenomena in a cosmic, philosophical adventure set within eerie landscapes. Discover fragments of what’s lost and report to your Astrogator, let his voice aid you in hard times.\n\nYou couldn’t have foreseen humanity’s biggest threat. It will force you to rethink mankind’s ambitions and biases. Go on – make decisions, follow the mystery… but remember not to underestimate the brutal simplicity and brilliance of evolution.\n\nRobots, people… Choose whether to interact with different creatures on Regis III or how to do it. Friend, companion? Enemy? You never suspected what these words might really mean before you got here.\n\nImmerse yourself in the atompunk atmosphere by using various tools, such as a telemeter or a tracker, and drive a vehicle through a stunning landscape. Experience realistic interactions with analogue technologies in a retro futuristic timeline.\n\nThe Invincible is a first-person game based on the motifs of The Invincible – an iconic novel of the world-known, hard science-fiction author and Polish futurologist Stanisław Lem.\n\nThere are places like Regis III, not prepared for us and for which we are not prepared for. Still, our spacecraft inevitably comes closer to the destination – for our stories and fates to cross in a dead spot.\n\n",
+        "features": [
+          ""
+        ],
+        "no_return_mode": ""
+      },
+      "id": "15",
+      "imagevid": "https://cdn.cloudflare.steamstatic.com/steam/apps/731040/extras/The_Invincible_gif_nr_1.gif",
+      "images": [
+        "http://s01.riotpixels.net/data/d4/e5/d4e5c334-b7a2-45a0-9a2a-e1777da755cd.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/62/fa/62fa4f1b-1652-470e-9b38-d5b621cbf623.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/e2/cb/e2cb77d3-0930-41c7-b125-2bab8d20334e.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/4d/b0/4db0bf73-c31c-4e76-9259-c86d1ad53c80.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/f4/46/f44600e2-5479-41ab-a2d6-98346d2f05d9.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/d2/23/d223e59d-3ba3-4cbc-bf1c-3d7b367b73b3.jpg.240p.jpg"
+      ],
+      "includes": [
+        "DLC",
+        "Bonus OST"
+      ],
+      "language": "RUS/ENG/MULT109",
+      "name": "The Invincible: Deluxe Edition, v1.6 (v44.494 CL_54877) + Bonus Content + Windows 7 Fix",
+      "original_size": "20.1 GB",
+      "repack_details": {
+        "features": [
+          "Based on The.Invincible.v1.6-RUNE ISO release: rune-the.invincible.v1.6.iso (21,536,931,840 bytes)",
+          "Game version: v1.6 (v44.494 CL_54877). Bonus Content (ArtBook, Comic Book, OST in MP3 format) is included by default",
+          "100% Lossless & MD5 Perfect: all files are identical to originals after installation",
+          "Bonus OST in WAV and FLAC formats ripped, NOTHING re-encoded",
+          "Significantly smaller archive size (compressed from 20.1 to 11.8 GB)",
+          "Installation takes 3-9 minutes (depending on your system)",
+          "After-install integrity check so you could make sure that everything installed properly",
+          "HDD space after installation: 39.1 GB",
+          "Language can be changed in game settings",
+          "Repack uses XTool library by Razor12911",
+          "At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+          "Copy contents of “_Windows 7 Fix” folder to “TheInvincible\\Binaries\\Win64” folder and run “The Invincible DX11” desktop icon to play on Windows 7",
+          ""
+        ],
+        "title": "Repack Features"
+      },
+      "repack_size": "11.8 GB",
+      "tags": [
+        "Adventure",
+        "First-person",
+        "3D"
+      ],
+      "version": "v1.6"
     }
   ]
 }
