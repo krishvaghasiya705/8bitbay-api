@@ -1294,6 +1294,97 @@
         "3D"
       ],
       "version": "v1.0.6"
+    },
+    {
+      "banner_image": "https://i3.imageban.ru/out/2025/03/07/055bac09b51452eaf9e6540aa763346e.jpg",
+      "companies": [
+        "Rockstar Family",
+        "Rockstar Games"
+      ],
+      "download_links": {
+        "direct_links": [
+          {
+            "link": "https://paste.fitgirl-repacks.site/?979f2a381eeaf45b#GtqsgQAGerFHs3kMG1BRxKoscrALjjFCBK77oYHbVRzc",
+            "link_name": "Filehoster: DataNodes",
+            "text": "(Speed & Usability)"
+          },
+          {
+            "link_name": "Filehoster: FuckingFast",
+            "text": "(REALLY Fucking Fast 🙂)",
+            "link": "https://paste.fitgirl-repacks.site/?396ed38db9d05a49#UeBGZAsf5opbozdVNEr1yR4wbdXJdFg59htc4ftPL31"
+          },
+          {
+            "text": "(10+ hosters, interchangeable use JDownloader2)",
+            "link_name": "Filehoster: MultiUpload",
+            "link": "https://paste.fitgirl-repacks.site/?e5bc906486d329c3#69AYAHLsCnMLRCH3TsXFNxUALBPg7bZYHXEcsDP7DcEC"
+          }
+        ],
+        "torrent": [
+          {
+            "link": "https://paste.fitgirl-repacks.site/?e96aa94022e82100#7N7MvLJt7jpQLgER8pRiuYwmEy4GTYszYzHaRcsVnALK",
+            "link_name": "Filehoster: Torrent file only",
+            "text": "(speed & usability use Utorrent)"
+          }
+        ]
+      },
+      "game_details": {
+        "description": "When a young street hustler, a retired bank robber, and a terrifying psychopath find themselves entangled with some of the most frightening and deranged elements of the criminal underworld, the U.S. government, and the entertainment industry, they must pull off a series of dangerous heists to survive in a ruthless city in which they can trust nobody — least of all each other.\nCurrent PC players can transfer both GTAV Story Mode progress and GTA Online characters and progression with a one-time migration from the legacy version of GTAV to GTAV Enhanced.\n\nStunning Visuals\nEnhanced levels of fidelity and performance with new graphics modes including ray tracing features such as ambient occlusion and global illumination, ray traced shadows and reflections, support for AMD FSR and NVIDIA DLSS, and more.*\n\nFaster Loading\nQuicker access to the action as the world of Los Santos and Blaine County load in faster than ever before by using SSD and DirectStorage on supported devices.\n\nImmersive Controls\nFeel new levels of responsiveness with dynamic resistance via the Adaptive Triggers on the DualSense™ wireless controller, from directional damage to weather effects, rough road surfaces to explosions, and much more.*\n\n3D Audio\nEnhanced audio with support for Dolby Atmos and improved fidelity of speech, cinematics, and music.* Hear the sounds of the world with pinpoint precision: the throttle of a stolen supercar, the rattle of neighboring gunfire, the roar of a helicopter overhead, and more.\n\nExclusive Content\nStep into Hao’s Special Works at the Los Santos Car Meet, featuring elite new upgrades and exclusive modifications. Then take these high-performance vehicles into HSW races, new time trials, and more.\n\nNew Career Builder\nGet started in GTA Online with the tools of the trade. Quickly choose from one of four businesses — Biker, Executive, Nightclub Owner, or Gunrunner — and select from properties, powerhouse vehicles, and weaponry to kick-start your enterprise.\n\nNew Menu Design\nImmediately access everything GTA Online has to offer right from the main menu, including the latest and most popular updates.\n\nAccess to All Current and Previous Updates\nDive into more than 40 massive updates with more to come, featuring everything from running a covert ops installation in Agents of Sabotage, to tracking down and dragging in Southern San Andreas’ most wanted in Bottom Dollar Bounties; exposing corrupt cops and killer cartels in The Cluckin’ Bell Farm Raid, to daring robberies of the most coveted vehicles in Los Santos in The Chop Shop. All this and more available alongside a wide range of races, modes, activities, and social spaces to enjoy solo or with friends — including nightclubs, arcades, penthouse parties, car meetups, and much more.\n\n",
+        "features": [
+          "Stunning Visuals",
+          "Faster Loading",
+          "Immersive Controls",
+          "3D Audio",
+          "Exclusive Content",
+          "New Career Builder",
+          "New Menu Design",
+          "Access to All Current and Previous Updates"
+        ],
+        "no_return_mode": ""
+      },
+      "id": "14",
+      "imagevid": "",
+      "images": [
+        "http://s01.riotpixels.net/data/14/b8/14b8a7d7-e046-4933-9258-4cbe5e2d8e3b.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/55/e1/55e1f57b-aefb-4210-a207-671dd4a360a2.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/53/fd/53fdbf4e-9256-4fc1-b644-80ee348f2967.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/30/65/3065ba3b-1c2d-4c4f-af0d-2b6be75f4b2e.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/a1/7f/a17f9fca-040a-457e-85d3-75fa56d3d30b.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/a2/62/a26231df-9e5d-45d0-acd2-0749a0f20001.jpg.240p.jpg"
+      ],
+      "includes": [
+        "DLC",
+        "Bonus OST"
+      ],
+      "language": "RUS/ENG/MULTI13",
+      "name": "Grand Theft Auto V Enhanced – Build 811.8/Online 1.70",
+      "original_size": "88.4 GB",
+      "repack_details": {
+        "features": [
+          "Based on scene Grand.Theft.Auto.V.Enhanced-RUNE ISO release: rune-grand.theft.auto.v.enhanced.iso (94,944,690,176 bytes)",
+          "Game version is Build 811.8/Online 1.70 (NO, multiplayer IS NOT available, it’s just a build number!)",
+          "100% Lossless & MD5 Perfect: all files are identical to originals after installation",
+          "NOTHING ripped, NOTHING re-encoded – ALL MULTIPLAYER & DLC FILES are totally intact, repack is safe for modding",
+          "Significantly smaller archive size (compressed from 88.4 to 38.2 GB)",
+          "Installation takes 1-3.5 hours (depending on your system)",
+          "After-install integrity check so you could make sure that everything installed properly",
+          "HDD space after installation: 91.5 GB (up to 110.1 GB during installation)",
+          "Language can be changed in “socialclub_emu.ini”",
+          "Repack uses XTool library by Razor12911",
+          "At least 6 GB of free RAM (inc. virtual) required for installing this repack"
+        ],
+        "title": "Repack Features"
+      },
+      "repack_size": "38.2 GB",
+      "tags": [
+        "Action",
+        "Shooter",
+        "Driving",
+        "Open world",
+        "First-person",
+        "Third-person",
+        "3D"
+      ],
+      "version": "v1.70"
     }
   ]
 }
