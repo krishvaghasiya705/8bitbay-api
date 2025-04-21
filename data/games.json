@@ -1456,6 +1456,7 @@
           "Repack uses XTool library by Razor12911",
           "At least 2 GB of free RAM (inc. virtual) required for installing this repack",
           "Copy contents of “_Windows 7 Fix” folder to “TheInvincible\\Binaries\\Win64” folder and run “The Invincible DX11” desktop icon to play on Windows 7",
+          ""
         ],
         "title": "Repack Features"
       },
@@ -1466,6 +1467,102 @@
         "3D"
       ],
       "version": "v1.6"
+    },
+    {
+      "banner_image": "https://i3.imageban.ru/out/2024/06/21/532a2f7805dda1edb2200207e937e43e.jpg",
+      "companies": [
+        "FromSoftware Inc.",
+        "BANDAI NAMCO Entertainment"
+      ],
+      "download_links": {
+        "direct_links": [
+          {
+            "link": "https://paste.fitgirl-repacks.site/?7e3201f71e23cbc2#3i7tVA41sZb791ksfckVKmyGgh2NDQ94CyKwHzmSaHzH",
+            "link_name": "Filehoster: DataNodes",
+            "text": "(Speed & Usability)"
+          },
+          {
+            "link_name": "Filehoster: FuckingFast",
+            "text": "(REALLY Fucking Fast 🙂)",
+            "link": "https://paste.fitgirl-repacks.site/?5813931e75bc91b4#9DjjCr7mzkVsn2eJoPBKtfVMZCfN9prM8EY4oN1bJp2A"
+          },
+          {
+            "text": "(10+ hosters, interchangeable use JDownloader2)",
+            "link_name": "Filehoster: MultiUpload",
+            "link": "https://paste.fitgirl-repacks.site/?aac125f78546ce71#4NthAMGVTRUDcJYAzPUDKbMrHZcc9AD8kmzHdYzhNu6z"
+          }
+        ],
+        "torrent": [
+          {
+            "link": "https://paste.fitgirl-repacks.site/?48f0f22574345871#EgyRsFgx3jhkRQZF5iUGLhcC59MnkUzaEcB9DH9UCuRR",
+            "link_name": "Filehoster: Torrent file only",
+            "text": "(speed & usability use Utorrent)"
+          }
+        ]
+      },
+      "game_details": {
+        "description": "Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring and become an Elden Lord in the Lands Between.\nDark and intense, Shadow of the Erdtree has players continue their quest with the freedom to explore and experience the adventure at their own pace.\n\nNew immersive areas rich with secrets\nThe Realm of Shadow has been kept apart from the Lands Between since its creation. Now, in pursuit of Miquella, the Tarnished are among the first souls to set foot here in unknown ages. Traverse new open field areas to reach dense new legacy dungeons full of hazards and undiscovered mysteries.\n\nPowerful and challenging enemies\nDangers both great and small will provide a formidable challenge for any player in the Realm of Shadow. New enemies roam the open areas and horrifying new monsters lurk in caverns and hollows, waiting to ambush the unaware. Anyone capable of surviving these intense battles will know the rush of true victory.\n\nNew weapons, spells, and armor to enhance your unique character\nMany new powers can be found in this scorched realm: weapons and armor, sorceries and incantations, and spirits and skills. You may find something unexpected to surprise an enemy, such as Thrusting Shields that combine offense and defense. Or, you may find something to complement your combat style, like hand-to-hand combat that combine palm strikes and kicks without a weapon.\n\nLearn the untold story of an unseen war as you follow in Miquella’s footsteps\n\nYou aren’t the only one tracking Miquella through the Realm of Shadow, and as you press deeper and deeper into the mystery, you’ll find a complex interplay of personalities and motivations to navigate, giving you new insight into Miquella’s history and Marika’s hidden past.\n",
+        "features": [
+          "A Vast World Full of Excitement: A vast world where open fields with a variety of situations and huge dungeons with complex and three-dimensional designs are seamlessly connected. As you explore, the joy of discovering unknown and overwhelming threats await you, leading to a high sense of accomplishment.",
+          "Create your Own Character: In addition to customizing the appearance of your character, you can freely combine the weapons, armor, and magic that you equip. You can develop your character according to your play style, such as increasing your muscle strength to become a strong warrior, or mastering magic.",
+          "An Epic Drama Born from a Myth: A multilayered story told in fragments. An epic drama in which the various thoughts of the characters intersect in the Lands Between.",
+          "Unique Online Play that Loosely Connects You to Others: In addition to multiplayer, where you can directly connect with other players and travel together, the game supports a unique asynchronous online element that allows you to feel the presence of others.",
+          "Bonus Gesture",
+          "Digital Artbook & Original Soundtrack",
+          "Adventure Guide",
+          "EU Pre-Purchase DLC Bundle",
+          "Shadow of the Erdtree",
+          "Shadow of the Erdtree Premium Bundle",
+          "Shadow of the Erdtree Digital Artbook & Original Soundtrack",
+          "Shadow of the Erdtree Bonus Gesture",
+          "Two standalone ArtBooks (Vol I & II)"
+        ],
+        "no_return_mode": ""
+      },
+      "id": "15",
+      "imagevid": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/extras/ER_Steam_Gif_616x260.gif",
+      "images": [
+        "http://s01.riotpixels.net/data/98/83/9883bebb-8e2b-4118-98c1-7d003fd43dd8.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/b9/0a/b90a16fa-e85c-485c-ba1f-d3676dea7e8f.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/bb/d6/bbd65bb9-a34f-4e35-9cd3-d91038638250.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/b0/80/b080ca09-13d6-4152-908f-71667895098d.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/a6/89/a68904ce-8d91-4a14-acf8-c8ada5c26f6e.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/dd/42/dd429a99-502c-4a17-ba0f-02e4d11e67d7.jpg.240p.jpg"
+      ],
+      "includes": [
+        "DLC",
+        "Bonus OST"
+      ],
+      "language": "RUS/ENG/MULTI14",
+      "name": "ELDEN RING: Shadow of the Erdtree Deluxe Edition, v1.12/v1.12.1 + 9 DLCs/Bonuses + Windows 7 Fix",
+      "original_size": "66.4 GB",
+      "repack_details": {
+        "features": [
+          "Based on scene ELDEN.RING.Shadow.of.the.Erdtree-RUNE ISO release: rune-elden.ring.shadow.of.the.erdtree.iso (70,814,236,672 bytes)",
+          "Two standalone PDF ArtBooks (Vol I & II, 507 MB) added, thanks to heatfan23!",
+          "Game version: v1.12; Calibration v1.12.1; All released DLCs/Bonuses are included and activated",
+          "Windows 7/8.1 Fix with DXVK is available in “_Windows 7 Fix” folder after installation, thanks to ColderRing! It’s not recommended to use windowed/borderless modes and any overlay apps with this fix.",
+          "100% Lossless & MD5 Perfect: all files are identical to originals after installation",
+          "NOTHING ripped, NOTHING re-encoded",
+          "Selective Download feature: you may skip downloading and installing of bonus content",
+          "Smaller archive size (compressed from cumulative 66.4 to 47.4/49.3 GB)",
+          "Installation takes from 28 minutes (on 24-threads CPU + SSD) up to 2.5 hours (on 4-threads CPU + HDD)",
+          "After-install integrity check so you could make sure that everything installed properly",
+          "HDD space after installation: up to 69.6 GB",
+          "Use “Language Selector.exe” in “Game” folder to change the game language",
+          "Repack uses compression libraries by Razor12911",
+          "At least 3 GB of free RAM (inc. virtual) required for installing this repack"
+        ],
+        "title": "Repack Features"
+      },
+      "repack_size": "from 47.4 GB [Selective Download]",
+      "tags": [
+        "Action",
+        "RPG",
+        "Third-person",
+        "3D"
+      ],
+      "version": "v1.12/v1.12.1"
     }
   ]
 }
