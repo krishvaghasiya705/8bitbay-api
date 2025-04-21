@@ -1926,6 +1926,105 @@
         "3D"
       ],
       "version": "v1.03"
+    },
+    {
+      "banner_image": "https://i3.imageban.ru/out/2023/09/12/4300af473446d8378d178e31ae4d8baf.jpg",
+      "companies": [
+        "IO Interactive"
+      ],
+      "download_links": {
+        "direct_links": [
+          {
+            "link": "https://paste.fitgirl-repacks.site/?d211629bb78c20e6#7yaWwcxRDyLqe35aRh85VWAsANAz2x39XyFnPPBwj6jD",
+            "link_name": "Filehoster: DataNodes",
+            "text": "(Speed & Usability)"
+          },
+          {
+            "link_name": "Filehoster: FuckingFast",
+            "text": "(REALLY Fucking Fast 🙂)",
+            "link": "https://paste.fitgirl-repacks.site/?d65743ab9ec9566d#BbHPYk6KnLn2Su7e9xfQjmfvpcF8TnVWkvC3ikgkD3Aj"
+          },
+          {
+            "link_name": "Filehoster: MultiUpload",
+            "text": "(10+ hosters, interchangeable use JDownloader2)",
+            "link": "https://pastefg.hermietkreeft.site/?3350aa5c9a8e7baf#E22ugLdi7wkpM8mqDw13T8jV7mbbd8LKSswvULxAcMTz"
+          }
+        ],
+        "torrent": [
+          {
+            "link": "https://pastefg.hermietkreeft.site/?bc7d2e9a6178ad63#FVNuZ2pDi8qKdJ6ARdnbtXQXsVhn3SEgpn1Gt6X65iop",
+            "link_name": "Filehoster: Torrent file only",
+            "text": "(speed & usability use Utorrent)"
+          }
+        ]
+      },
+      "game_details": {
+        "description": "Enter the world of the ultimate assassin. HITMAN World of Assassination brings together the best of HITMAN, HITMAN 2 and HITMAN 3 including the main campaign, contracts mode, escalations, elusive target arcades and featured live content.\n\nBECOME AGENT 47\nSuit up for a spy-thriller adventure where all your deadly abilities are put to the test across more than 20 locations.\n\nFREEDOM OF APPROACH\nYour deadliest weapon is creativity. Unlock new gear and up your game on highly replayable missions.\n\nWORLD OF ASSASSINATION\nTravel a living, breathing world, filled with intriguing characters and lethal opportunities.\n\nHITMAN FREELANCER\nA new way to play on your own terms, that combines rogue-like elements and deep strategic planning with a persistent and infinitely replayable gameplay experience.",
+        "features": [
+          "HITMAN 1 Complete First Season",
+          "HITMAN 1 GOTY Edition",
+          "HITMAN 2 Standard",
+          "HITMAN 2 Expansion Pass",
+          "Deluxe Pack",
+          "Berlin",
+          "Carpathian Mountains",
+          "Chongqing",
+          "Dartmoor",
+          "Dubai",
+          "Mendoza",
+          "Trinity Pack",
+          "Street Art Pack",
+          "Makeshift Pack",
+          "Seven Deadly Sins Collection",
+          "Sarajevo Six Campaign Pack"
+        ],
+        "no_return_mode": ""
+      },
+      "id": "21",
+      "imagevid": "",
+      "images": [
+        "http://s01.riotpixels.net/data/ac/1d/ac1d2611-630d-4321-bdd3-6534dbdcdbf1.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/a6/ef/a6ef4d78-df7d-48b6-8b4e-cdafde8bb389.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/6f/72/6f72b94d-5fe3-4e3e-9120-2c895832431a.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/9a/86/9a863eb1-cd93-440e-a9d0-45763a704c44.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/a5/4c/a54ceafc-fbb3-40a8-b06f-22ad5ec55abf.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/15/0a/150aa97d-a6d9-45ec-938a-8f27200e3dc5.jpg.240p.jpg"
+      ],
+      "includes": [
+        "DLC",
+        "Bonus OST"
+      ],
+      "language": "RUS/ENG/MULTI9",
+      "name": "HITMAN: World of Assassination – v3.160 + All DLCs + Bonus Content + Peacock Server/Unlocker (Monkey Repack)",
+      "original_size": "70.3 GB",
+      "repack_details": {
+        "features": [
+          "Based on HITMAN.3.Sarajevo.Six.Campaign.Pack-RUNE ISO release: rune-hitman.3.sarajevo.six.campaign.pack.iso (74,865,704,960 bytes)",
+          "Peacock-v6.5.1 Cracked with a launcher added, allows one-click running with all stuff unlocked (“Hitman + Peacock” desktop icon)",
+          "When running with Peacock, all stuff is locked by default. You can remove the natural progression and unlock everything by editing two otpions in “Peacock\\options.ini” file: set “enableMasteryProgression = false” and “getDefaultSuits = true”",
+          "Game version: v3.160; All DLCs are unlocked with Peacock",
+          "Bonus content (Digital Book + three OSTs, 548 MB) added",
+          "100% Lossless & MD5 Perfect: all files are identical to originals after installation",
+          "NOTHING ripped, NOTHING re-encoded",
+          "Selective Download feature: you may skip downloading and installing of bonus content",
+          "Significantly smaller archive size (compressed from cumulative 70.3 to 58.3/58.7 GB, depending on selected components)",
+          "Installation takes 5-20 minutes, depending on your system",
+          "After-install integrity check so you could make sure that everything installed properly",
+          "HDD space after installation: up to 75.5 GB",
+          "Language can be changed in game settings",
+          "At least 2 GB of free RAM (inc. virtual) required for installing this repack"
+        ],
+        "title": "Repack Features"
+      },
+      "repack_size": "58.3/58.7 GB",
+      "tags": [
+        "Action",
+        "Shooter",
+        "Stealth",
+        "Third-person",
+        "3D"
+      ],
+      "version": "v3.160"
     }
   ]
 }
