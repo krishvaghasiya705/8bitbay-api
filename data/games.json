@@ -2522,6 +2522,93 @@
         "3D"
       ],
       "version": "v1.112.48699928"
+    },
+    {
+      "banner_image": "https://i2.imageban.ru/out/2023/08/20/4679443f60de3f0b863df4f763532bc0.jpg",
+      "companies": [
+        "Rockstar San Diego",
+        "Rockstar North",
+        "Double Eleven",
+        "Rockstar Games"
+      ],
+      "download_links": {
+        "direct_links": [
+          {
+            "link": "https://paste.fitgirl-repacks.site/?8e741a9ffaf20ce4#2d5xH4mqKfyTDC6uQ27AWEjDgf6pFebvEoSQ6ev7pt66",
+            "link_name": "Filehoster: DataNodes",
+            "text": "(speed & usability use IDM)"
+          },
+          {
+            "link": "https://paste.fitgirl-repacks.site/?e2916d2962d87036#4FJYVQGmpH93BYAgkY6BXAcvxtUMJLp2LjbkvVpfxPcV",
+            "link_name": "Filehoster: FuckingFast",
+            "text": "(REALLY Fucking Fast 🙂)"
+          },
+          {
+            "link": "https://paste.fitgirl-repacks.site/?8e46147fc3efa5b6#HZ1qTEvrbiYPoweF3MtVmBqevUb37PWL7DvYxPY9qdHd",
+            "link_name": "Filehoster: MultiUpload",
+            "text": "(10+ hosters, interchangeable use JDownloader2)"
+          }
+        ],
+        "torrent": [
+          {
+            "link": "https://paste.fitgirl-repacks.site/?e9dd25578fd5167a#nHPf2QQXM5gwLDPVR8WBQ3YyF2CWTh2EawMJDPjcraX",
+            "link_name": "Filehoster: Torrent file only",
+            "text": "(speed & usability use Utorrent)"
+          }
+        ]
+      },
+      "game_details": {
+        "description": "This product includes the digital version of Red Dead Redemption and Undead Nightmare for PC. Featuring the complete single-player experiences of both games, including bonus content from the Game of the Year Edition. Red Dead Redemption does not feature multiplayer content. Experience the story of former outlaw John Marston as he tracks down the last remaining members of the notorious Van der Linde Gang in the PC debut of the critically acclaimed predecessor to Red Dead Redemption 2.",
+        "features": [
+          ""
+        ],
+        "no_return_mode": ""
+      },
+      "id": "814292",
+      "imagevid": "",
+      "images": [
+        "http://s01.riotpixels.net/data/be/a3/bea334bd-87c9-4d68-a2c5-1d2c1d542780.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/5d/25/5d2531cb-a755-441a-9ec3-f1a8e6bc2ab3.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/19/53/195311ca-4eaa-4695-9695-6346b5b13363.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/24/ef/24ef50d4-cae4-46b8-a78c-107bbd846886.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/33/ac/33ac4f80-5b0e-4dff-a973-1bf3f5aba20a.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/d1/93/d19364c5-9453-4ae7-a9b2-d4ff7643097d.jpg.240p.jpg"
+      ],
+      "includes": [
+        "DLC",
+        "Bonus OST"
+      ],
+      "language": "RUS/ENG/MULTI13",
+      "name": "Red Dead Redemption – v1.0.40.57107 + Bonus Content",
+      "original_size": "10.3 GB",
+      "repack_details": {
+        "features": [
+          "Based on Red_Dead_Redemption-Razor1911 ISO release: rzr-reddeadredemption1.iso (10,321,395,712 bytes)",
+          "Bonus Content (2 OSTs, Avatars, Desktop Backgrounds, Mobile Backgrounds, ScreenSaver Images, Brady’s Strategy Guide – 693 MB total) added, thanks to NoeRIη!",
+          "Game version: v1.0.40.57107. Undead Nightmare mode is an integral part of the PC port",
+          "100% Lossless & MD5 Perfect: all files are identical to originals after installation",
+          "NOTHING ripped, NOTHING re-encoded",
+          "Selective Download feature: you may skip downloading and installing of bonus content",
+          "Significantly smaller archive size (compressed from cumulative 10.3 to 5.4/6 GB)",
+          "Installation takes from 8 minutes (on 32-threads CPU + SSD, no bonus content) up to 30 minutes (on 4-threads CPU + HDD, with bonus content)",
+          "After-install integrity check so you could make sure that everything installed properly",
+          "HDD space after installation: up to 9.9 GB",
+          "Language is set automatically by the game, but you can force any language by adding the following parameter to the desktop game icon: -rglLanguage=NNNN (where NNNN can be one of these: en-US, ru-RU, it-IT, de-DE, fr-FR, es-ES, ko-KR, zh-CN, es-419, zh-TW, ja-JP, pl-PL, pt-BR)",
+          "Windows username must contain only standard latin letters and numbers",
+          "Repack uses XTool library by Razor12911",
+          "At least 2 GB of free RAM (inc. virtual) required for installing this repack"
+        ],
+        "title": "Repack Features"
+      },
+      "repack_size": "5.4/6 GB",
+      "tags": [
+        "Action",
+        "Shooter",
+        "Open world",
+        "Third person view",
+        "3D"
+      ],
+      "version": "v1.0.40.57107"
     }
   ]
 }
