@@ -3059,6 +3059,92 @@
         "3D"
       ],
       "version": "v1.06"
+    },
+    {
+      "banner_image": "https://i3.imageban.ru/out/2023/08/29/2e754a09cb851dd304ce48c11b29b37e.jpg",
+      "companies": [
+        "EA Vancouver",
+        "EA Romania",
+        "Electronic Arts"
+      ],
+      "download_links": {
+        "direct_links": [
+          {
+            "link": "https://paste.fitgirl-repacks.site/?91ad201581fb232a#828VpK9ZXWukc9RUPSqYqGXQzjjMVnDjhE6Dbo5hycsG",
+            "link_name": "Filehoster: DataNodes",
+            "text": "(speed & usability use IDM)"
+          },
+          {
+            "link": "https://paste.fitgirl-repacks.site/?8f2e75008fa2159a#4qrwvDU2FdEFUjF2j26x1w2WBxPwpNpPoGjCJeSuQWXc",
+            "link_name": "Filehoster: FuckingFast",
+            "text": "(REALLY Fucking Fast 🙂)"
+          },
+          {
+            "link": "https://pastefg.hermietkreeft.site/?99ccdec283edee47#HYX8NiwL12RueP89KyP1LwyrcQJy8CohGjJVyz9LPsqW",
+            "link_name": "Filehoster: MultiUpload",
+            "text": "(10+ hosters, interchangeable use JDownloader2)"
+          }
+        ],
+        "torrent": [
+          {
+            "link": "https://pastefg.hermietkreeft.site/?e8643943ef0d815b#9QJi64fswsV1yMhQq8BitY8JiGMUhaShP97q1ZeW9jUr",
+            "link_name": "Filehoster: Torrent file only",
+            "text": "(speed & usability use Utorrent)"
+          }
+        ]
+      },
+      "game_details": {
+        "description": "Experience the pinnacle of women’s international football in EA SPORTS™ FIFA 23 with the FIFA Women’s World Cup Australia and New Zealand 2023™ available on June 27th at no additional cost*. Rep your country’s colors and live the tournament in the most immersive EA SPORTS™ FIFA Women’s World Cup™ experience yet, complete with each of the 32 qualified nations, custom stadium dressings, cinematics, match presentations, dedicated commentary, and of course, the authentic trophy to hoist at the end. EA SPORTS™ FIFA 23 brings The World’s Game to the pitch, with HyperMotion2 Technology that delivers even more gameplay realism, both the men’s and women’s FIFA World Cup™ coming to the game as post-launch updates, the addition of women’s club teams, cross-play features**, and more. Experience unrivaled authenticity with over 19,000 players, 700+ teams, 100 stadiums, and over 30 leagues in FIFA 23.",
+        "features": [
+          ""
+        ],
+        "no_return_mode": ""
+      },
+      "id": "497257",
+      "imagevid": "",
+      "images": [
+        "http://s01.riotpixels.net/data/52/80/52807b6c-e7cb-4a7d-9fee-5077adc5b391.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/43/d1/43d10a38-5060-413c-9cc8-a598505ee8b9.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/4f/0b/4f0b0c3a-fffc-46be-bfb6-013da8077978.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/a4/e3/a4e3f76a-b1be-4a8e-95bd-955d396cf8fe.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/d1/34/d1340cad-c283-4129-9773-290a1ddb2cd5.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/ea/e5/eae5cdf2-2d96-448a-a9c2-4ea0118508d6.jpg.240p.jpg"
+      ],
+      "includes": [
+        "DLC",
+        "Bonus OST"
+      ],
+      "language": "RUS/ENG/MULTI21",
+      "name": "EA SPORTS FIFA 23 – v1.0.82.43747 + World Cup LE Fix + 3 Bonus Soundtracks (Monkey Repack)",
+      "original_size": "65 GB",
+      "repack_details": {
+        "features": [
+          "Based on v1.0.82.43747 Origin release with all commentary languages: 64.1 GB",
+          "FIFA.23.CRACKONLY.READNFO-MKDEV (213 MB) applied over",
+          "After you run the game with “Launcher.exe”, click on “Run game” inside that window",
+          "Three bonus OSTs in MP3 (Lame Extreme preset, 925 MB) added, thanks to NoeRIη!",
+          "Check “README.txt” in the “_World Cup LE Fix” folder to see how to play World Cup mode",
+          "100% Lossless & MD5 Perfect: all files are identical to originals after installation",
+          "NOTHING ripped, NOTHING re-encoded",
+          "Selective Download feature: you may skip downloading and installing of commentary voiceovers you don’t need and three bonus soundtracks",
+          "Smaller archive size (compressed from cumulative 65 to 39.1~55 GB, depending on selected components)",
+          "Installation takes 5-20 minutes for any single language",
+          "After-install integrity check so you could make sure that everything installed properly",
+          "HDD space after installation: up to 65 GB",
+          "GUI/Text Language can be changed in game settings",
+          "To change commentary language after installation, copy “anadius.cfg” from a corresponding subfolder of the “_Commentaries Switcher” folder to the game root",
+          "At least 2 GB of free RAM (inc. virtual) required for installing this repack"
+        ],
+        "title": "Repack Features"
+      },
+      "repack_size": "from 39.1 GB [Selective Download]",
+      "tags": [
+        "Sports",
+        "Soccer",
+        "Third-person",
+        "3D"
+      ],
+      "version": "v1.0.82.43747"
     }
   ]
 }
