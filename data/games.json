@@ -2258,6 +2258,92 @@
         "3D"
       ],
       "version": "v1.1.2.1279292"
+    },
+    {
+      "banner_image": "https://i6.imageban.ru/out/2022/08/13/d8a6e759722f3c703990dcf3765d400b.jpg",
+      "companies": [
+        "Insomniac Games",
+        "Nixxes Software",
+        "PlayStation PC LLC"
+      ],
+      "download_links": {
+        "direct_links": [
+          {
+            "link": "https://paste.fitgirl-repacks.site/?467ae62ed864c35d#AZHLhkXQ8eBENnJiwPNyVnAeQCd6merdkNTfK3Jgc7CT",
+            "link_name": "Filehoster: DataNodes",
+            "text": "(speed & usability use IDM)"
+          },
+          {
+            "link": "https://paste.fitgirl-repacks.site/?262c85d934954c96#ENBh23cckBbF1j2LL5TdnqpyS4r39hptyHUEbuEQG5XC",
+            "link_name": "Filehoster: FuckingFast",
+            "text": "(REALLY Fucking Fast 🙂)"
+          }
+        ],
+        "torrent": [
+          {
+            "link": "https://pastefg.hermietkreeft.site/?0dd517b88656678f#GcSBGqP4UFjEWcb4Q5ym26L36wak437596K6MUGbHJKU",
+            "link_name": "Filehoster: Torrent file only",
+            "text": "(speed & usability use Utorrent)"
+          }
+        ]
+      },
+      "game_details": {
+        "description": "Developed by Insomniac Games in collaboration with Marvel, and optimized for PC by Nixxes Software, Marvel’s Spider-Man Remastered on PC introduces an experienced Peter Parker who’s fighting big crime and iconic villains in Marvel’s New York. At the same time, he’s struggling to balance his chaotic personal life and career while the fate of Marvel’s New York rests upon his shoulders.",
+        "features": [
+          "Be Greater: When iconic Marvel villains threaten Marvel’s New York, Peter Parker and Spider-Man’s worlds collide. To save the city and those he loves, he must rise up and be greater.",
+          "Feel like Spider-Man: After eight years behind the mask, Peter Parker is a crime-fighting master. Feel the full power of a more experienced Spider-Man with improvisational combat, dynamic acrobatics, fluid urban traversal and environmental interactions.",
+          "Worlds collide: The worlds of Peter Parker and Spider-Man collide in an original action-packed story. In this new Spider-Man universe, iconic characters from Peter and Spider-Man’s lives have been reimagined, placing familiar characters in unique roles.",
+          "Marvel’s New York is your playground: The Big Apple comes to life in Marvel’s Spider-Man. Swing through vibrant neighborhoods and catch breathtaking views of iconic Marvel and Manhattan landmarks. Use the environment to defeat villains with epic takedowns in true blockbuster action.",
+          "Enjoy The City That Never Sleeps complete content: Following the events of the main story of Marvel’s Spider-Man Remastered, experience the continuation of Peter Parker’s journey in Marvel’s Spider-Man: The City That Never Sleeps, three story chapters with additional missions and challenges to discover."
+        ],
+        "no_return_mode": ""
+      },
+      "id": "304459",
+      "imagevid": "",
+      "images": [
+        "http://s01.riotpixels.net/data/cf/4d/cf4d3dc4-b59c-4873-82aa-fda389949d9c.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/1c/56/1c569538-729b-4bec-bf44-53665726058c.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/7e/fc/7efc061f-6299-4b58-9f6d-84f90882ee84.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/91/09/91094db4-f800-4142-b87c-bf4ac668c78c.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/ac/7d/ac7d0a3b-a670-4659-9ce6-e1e9ab9249e3.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/6d/59/6d5921a6-86e5-4ab8-bf18-64be79c3ef8a.jpg.240p.jpg"
+      ],
+      "includes": [
+        "DLC",
+        "Bonus OST"
+      ],
+      "language": "RUS/ENG/MULTI21",
+      "name": "Marvel’s Spider-Man Remastered – v1.812.1.0 + DLC + SSE Fix",
+      "original_size": "78.3 GB",
+      "repack_details": {
+        "features": [
+          "Based on Steam BuildID 9304506 MULTi21 release: 78.3 GB, thanks to Crimechaser!",
+          "FLT crack/emu applied over, alternative CODEX/ALI213/Goldberg cracks are located in NoDVD folder after installation",
+          "SSE 4.x CPU fix for Athlon/Phenom & 65nm Core2/Xeon is located in “_SSE Fix” folder after installation, thanks to luther_d!",
+          "Game version: v1.812.1.0; Pre-purchase Entitlements (DLC) is included and activated",
+          "100% Lossless & MD5 Perfect: all files are identical to originals after installation",
+          "NOTHING ripped, NOTHING re-encoded",
+          "Selective Download feature: you may skip downloading and installing of voiceover packs you don’t need",
+          "Significantly smaller archive size (compressed from 78.3 to 37.6~47.4 GB, depending on selected components)",
+          "Installation takes 12-35 minutes (depending on your system and selected components)",
+          "After-install integrity check so you could make sure that everything installed properly",
+          "HDD space after installation: up to 78.3 GB",
+          "GUI/text language can be changed in game settings",
+          "Audio language can be changed in “flt.ini” in the game root (other cracks have different inis)",
+          "Repack uses XTool library by Razor12911",
+          "At least 2 GB of free RAM (inc. virtual) required for installing this repack"
+        ],
+        "title": "Repack Features"
+      },
+      "repack_size": "from 37.6 GB [Selective Download]",
+      "tags": [
+        "Action",
+        "Open world",
+        "Beat ’em up (Brawler)",
+        "Third-person",
+        "3D"
+      ],
+      "version": "v1.812.1.0"
     }
   ]
 }
