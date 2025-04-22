@@ -2975,6 +2975,90 @@
         "Japanese"
       ],
       "version": "v1.10.01"
+    },
+    {
+      "banner_image": "https://i2.imageban.ru/out/2024/04/01/b999979347fdc64b8bfae2645d4001bc.jpg",
+      "companies": [
+        "From Software",
+        "Activision"
+      ],
+      "download_links": {
+        "direct_links": [
+          {
+            "link": "https://paste.fitgirl-repacks.site/?5df36b57759b35ff#V4UYQWHqkARP3mrTYo239hpA2Cz1b22aeNdVwTEwsCB",
+            "link_name": "Filehoster: DataNodes",
+            "text": "(speed & usability use IDM)"
+          },
+          {
+            "link": "https://paste.fitgirl-repacks.site/?1372d0df493a12d6#4pFqr9BtKymbbBBPEUVEMu8NPVAZHcPBSxMvMiLtxmCk",
+            "link_name": "Filehoster: FuckingFast",
+            "text": "(REALLY Fucking Fast 🙂)"
+          },
+          {
+            "link": "https://pastefg.hermietkreeft.site/?acf4ee854142754d#7JAUqMk6Db2fWvRFwKEf1nPZw6N8YRy369rzLQDyhqud",
+            "link_name": "Filehoster: MultiUpload",
+            "text": "(10+ hosters, interchangeable use JDownloader2)"
+          }
+        ],
+        "torrent": [
+          {
+            "link": "https://pastefg.hermietkreeft.site/?733ec7a77f5df45e#DrwpQC7LxZKe3yHeuc2f6gXmSTsFebp3sH3EJnpavB74",
+            "link_name": "Filehoster: Torrent file only",
+            "text": "(speed & usability use Utorrent)"
+          }
+        ]
+      },
+      "game_details": {
+        "description": "Winner of “Best of gamescom” and “Best Action Game” at gamescom 2018, Sekiro: Shadows Die Twice is the next adventure from developer FromSoftware, creators of Bloodborne and the Dark Souls series. Carve your own clever path to vengeance in an all-new adventure from developer FromSoftware, creators of the Dark Souls series. In Sekiro: Shadows Die Twice you are the “one-armed wolf”, a disgraced and disfigured warrior rescued from the brink of death. Bound to protect a young lord who is the descendant of an ancient bloodline, you become the target of many vicious enemies, including the dangerous Ashina clan. When the young lord is captured, nothing will stop you on a perilous quest to regain your honor, not even death itself. Explore late 1500s Sengoku Japan, a brutal period of constant life and death conflict, as you come face to face with larger than life foes in a dark and twisted world. Unleash an arsenal of deadly prosthetic tools and powerful ninja abilities while you blend stealth, vertical traversal, and visceral head to head combat in a bloody confrontation.",
+        "features": [
+          "Reflection and Gauntlet of Strength – new boss challenge modes",
+          "Remnants – leave messages and recordings of your actions that other players can view and rate",
+          "3 unlockable cosmetic skins"
+        ],
+        "no_return_mode": ""
+      },
+      "id": "825475",
+      "imagevid": "",
+      "images": [
+        "http://s01.riotpixels.net/data/7a/f8/7af84f35-0a03-4be1-a3b2-bb5d635ac9fb.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/7b/c0/7bc0dee0-314c-42c8-933e-7dbb2f852345.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/d0/d1/d0d1b026-a18d-40a3-9bb9-ceca686a0fef.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/d5/f3/d5f388be-5732-4cee-8595-8d1ce66511b3.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/06/9b/069bc2e5-df52-4e81-9b5a-049a8e92173a.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/2a/b2/2ab236a7-7b2a-4935-86da-88716138382d.jpg.240p.jpg"
+      ],
+      "includes": [
+        "DLC",
+        "Bonus OST"
+      ],
+      "language": "RUS/ENG/MULTI13",
+      "name": "Sekiro: Shadows Die Twice – Game of the Year Edition – v1.06 + Bonus Content",
+      "original_size": "15 GB",
+      "repack_details": {
+        "features": [
+          "Based on Sekiro.Shadows.Die.Twice.GOTY.Edition-CODEX ISO release: codex-sekiro.shadows.die.twice.goty.edition.iso (14,999,748,608 bytes)",
+          "Sekiro.Shadows.Die.Twice.GOTY.Edition.Update.v1.06-CODEX (130 MB) applied over",
+          "100% Lossless & MD5 Perfect: all files are identical to originals after installation (when installed with all components)",
+          "NOTHING ripped, NOTHING re-encoded",
+          "Selective Download feature: you may skip downloading and installing of voiceover packs you don’t need, credits video and bonus content (artbook + mini OST)",
+          "Significantly smaller archive size (compressed from cumulative 14.1 to 7.2~8.8 GB, depending on selected components)",
+          "Installation takes: ~8 minutes on 16-threads CPU; ~15 minutes on 8-threads CPU; ~30 minutes on 4-threads CPU",
+          "After-install integrity check so you could make sure that everything installed properly",
+          "HDD space after installation: up to 15 GB",
+          "Language can be changed in game settings",
+          "Repack uses compression library by Razor12911",
+          "At least 2 GB of free RAM (inc. virtual) required for installing this repack"
+        ],
+        "title": "Repack Features"
+      },
+      "repack_size": "from 7.2 GB [Selective Download]",
+      "tags": [
+        "Action",
+        "Slasher",
+        "Third-person",
+        "3D"
+      ],
+      "version": "v1.06"
     }
   ]
 }
