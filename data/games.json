@@ -2426,6 +2426,102 @@
         "3D"
       ],
       "version": "v1.0.12"
+    },
+    {
+      "banner_image": "https://i2.imageban.ru/out/2021/11/18/b0696966eabea2b73c2620ea5b69f8c3.jpg",
+      "companies": [
+        "Rockstar Games",
+        "adapted by Grove Street Games"
+      ],
+      "download_links": {
+        "direct_links": [
+          {
+            "link": "https://paste.fitgirl-repacks.site/?87c1dcb60846a7b5#8iFNz2EWvFYt4GFB1UbQvSsh6bZGbXdGgRujGmUsY1Vy",
+            "link_name": "Filehoster: DataNodes",
+            "text": "(speed & usability use IDM)"
+          },
+          {
+            "link": "https://paste.fitgirl-repacks.site/?b0dedb75887c05b9#2J8DTf83CmfUi9faZbyCR1Y2wXQLuAVuMYMWVFS791oG",
+            "link_name": "Filehoster: FuckingFast",
+            "text": "(REALLY Fucking Fast 🙂)"
+          },
+          {
+            "link": "https://paste.fitgirl-repacks.site/?172d51301a2bc927#DNkY3cUfFvXMqMrp9fw3eSJLmubPAvpjwQ3NS8rw3kQb",
+            "link_name": "Filehoster: MultiUpload",
+            "text": "(10+ hosters, interchangeable use JDownloader2)"
+          }
+        ],
+        "torrent": [
+          {
+            "link": "https://paste.fitgirl-repacks.site/?eb6df2f7afd93f11#Hv8d4N3aKsgoXzca3FoD9rt5pdvPTsi2XLK8frcFvV7K",
+            "link_name": "Filehoster: Torrent file only",
+            "text": "(speed & usability use Utorrent)"
+          }
+        ]
+      },
+      "game_details": {
+        "description": "Relive the iconic chaos, crime, and open-world freedom of three of the most influential titles in gaming history with Grand Theft Auto: The Trilogy – The Definitive Edition. This remastered collection brings together the legendary classics – GTA III, GTA: Vice City, and GTA: San Andreas – all updated for modern platforms with enhanced visuals, improved gameplay mechanics, and quality-of-life upgrades.\n\nFrom the dark underworld of Liberty City, to the neon-lit streets of 1980s Vice City, to the gang-ridden neighborhoods and vast countryside of early-90s San Andreas, this trilogy takes players on an unforgettable journey through three distinct cities, packed with unforgettable characters, explosive missions, and the signature GTA satirical edge.",
+        "features": [
+          "Includes remastered versions of Grand Theft Auto III, Grand Theft Auto: Vice City, and Grand Theft Auto: San Andreas.",
+          "Improved character models, lighting, textures, and environments while retaining the original aesthetic and charm.",
+          "Refined gameplay controls based on GTA V’s control scheme for smoother driving, shooting, and navigation.",
+          "Improved navigation with new mini-map enhancements, mission waypoints, and quick weapon/weapon wheel selection.",
+          "Weather effects, reflections, and shadows overhauled to bring each city to life in new ways.",
+          "Featuring a wide range of memorable tracks that defined the eras of each game, subject to licensing.",
+          "Designed for modern systems, including performance enhancements and platform-specific features like achievements/trophies.",
+          "Snap your most chaotic or scenic moments with a new camera mode for each game."
+        ],
+        "no_return_mode": ""
+      },
+      "id": "356665",
+      "imagevid": "https://c.tenor.com/cJRcMyUAiMcAAAAd/tenor.gif",
+      "images": [
+        "http://s01.riotpixels.net/data/71/b8/71b833aa-8580-415c-9c6c-48ca05eeb69d.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/66/07/66079f40-388d-4f0e-8b26-6c436b1102a1.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/b5/ef/b5ef1765-1931-4504-90ec-f6c98df198bb.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/64/db/64db44ad-e23d-4b59-9fa6-22053d476a5d.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/87/55/87551214-be9f-42bf-9fdb-3d7497d07d61.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/2c/af/2cafa1b3-707c-464c-b2cb-6922beb414ee.jpg.240p.jpg"
+      ],
+      "includes": [
+        "DLC",
+        "Bonus OST"
+      ],
+      "language": "RUS/ENG/MULTI13",
+      "name": "Grand Theft Auto: The Trilogy – The Definitive Edition, v1.112.48699928 / “Barbra Streisand” Edition + Windows 7 Fix",
+      "original_size": "31.8 GB",
+      "repack_details": {
+        "features": [
+          "Based on three P2P v1.112.48699928 releases: 31.8 GB combined, thanks to AR-81!",
+          "Deftones+CODEX+machine4578 crack applied over",
+          "Custom launcher for three games added, allows running them in either DirectX 11 or DirectX 12 modes",
+          "100% Lossless & MD5 Perfect: all files are identical to originals after installation",
+          "NOTHING ripped, NOTHING re-encoded",
+          "Significantly smaller archive size (compressed from 31.8 to 22.8 GB)",
+          "Installation takes from 16 minutes on 32-threads CPU to 1 hour 30 minutes on 4-threads CPU",
+          "After-install integrity check so you could make sure that everything installed properly",
+          "HDD space after installation: 31.8 GB",
+          "Language can be changed in games settings",
+          "Repack uses XTool library by Razor12911",
+          "At least 3 GB of free RAM (inc. virtual) required for installing this repack"
+        ],
+        "title": "Repack Features"
+      },
+      "repack_size": "22.8 GB",
+      "tags": [
+        "Action",
+        "Shooter",
+        "Driving",
+        "Racing",
+        "Open world",
+        "QTE",
+        "Stealth",
+        "First-person",
+        "Third-person",
+        "Top-down",
+        "3D"
+      ],
+      "version": "v1.112.48699928"
     }
   ]
 }
