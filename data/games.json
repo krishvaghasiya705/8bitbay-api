@@ -3340,6 +3340,89 @@
         "3D"
       ],
       "version": "v1.0.5.0"
+    },
+    {
+      "banner_image": "https://i2.imageban.ru/out/2022/11/19/5137d60a42b27845a34bdc11ea4cc57d.jpg",
+      "companies": [
+        "Insomniac Games",
+        "Nixxes Software",
+        "PlayStation PC LLC"
+      ],
+      "download_links": {
+        "direct_links": [
+          {
+            "link": "https://paste.fitgirl-repacks.site/?ff6898f270bc9114#3hTWXJhv2WfGhJNtc8vNc9os9ir8dKzJjYBhyvfP3dhi",
+            "link_name": "Filehoster: DataNodes",
+            "text": "(speed & usability use IDM)"
+          },
+          {
+            "link": "https://paste.fitgirl-repacks.site/?4faf8133809c753c#EqFYW8WtPUhV3Vg9bwwggiXn4AeZPPYt1pjUBjMcn2Q2",
+            "link_name": "Filehoster: FuckingFast",
+            "text": "(REALLY Fucking Fast 🙂)"
+          }
+        ],
+        "torrent": [
+          {
+            "link": "https://pastefg.hermietkreeft.site/?94ad6fb1ab0029aa#34Wwd4BdYPqP24FMGGkSAvkV1WDrvdYCcoJ8TTdjmo5C",
+            "link_name": "Filehoster: Torrent file only",
+            "text": "(speed & usability use Utorrent)"
+          }
+        ]
+      },
+      "game_details": {
+        "description": "Following the events of Marvel’s Spider-Man Remastered, teenager Miles Morales is adjusting to his new home while following in the footsteps of his mentor, Peter Parker, as a new Spider-Man. But when a fierce power struggle threatens to destroy his new home, the aspiring hero realizes that with great power, there must also come great responsibility. To save all of Marvel’s New York, Miles must take up the mantle of Spider-Man and own it.",
+        "features": [
+          "The Rise of Miles Morales: Miles Morales discovers explosive powers that set him apart from his mentor, Peter Parker. Master his unique, bio-electric venom blast attacks and covert camouflage power alongside spectacular web-slinging acrobatics, gadgets and skills.",
+          "A War for Power: A war for control of Marvel’s New York has broken out between a devious energy corporation and a high-tech criminal army. With his new home at the heart of the battle, Miles must learn the cost of becoming a hero and decide what he must sacrifice for the greater good.",
+          "A Vibrant New Home: Traverse the snowy streets of his new, vibrant, and bustling neighborhood as Miles searches for a sense of belonging. When the lines blur between his personal and crime-fighting lives, he discovers who he can trust, and what it feels like to truly be home."
+        ],
+        "no_return_mode": ""
+      },
+      "id": "524517",
+      "imagevid": "",
+      "images": [
+        "http://s01.riotpixels.net/data/b4/ef/b4ef9414-de6c-4aab-a40b-f072c955814e.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/4e/da/4eda6566-ea44-47f1-8ba7-c67cda1ecd6e.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/97/ad/97adf150-3488-4205-b1ec-faa4e5bd9b4e.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/cb/14/cb142cf9-786d-4781-b3f1-a59c77296d4d.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/79/9c/799c7e49-0b81-4f79-8a6d-ee1f43c7eb6a.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/5d/b9/5db9d892-8530-490b-83f6-86d10cbac606.jpg.240p.jpg"
+      ],
+      "includes": [
+        "DLC",
+        "Bonus OST"
+      ],
+      "language": "RUS/ENG/MULTI22",
+      "name": "Marvel’s Spider-Man: Miles Morales – v1.1116.0.0 + DLC + Bonus OST",
+      "original_size": "48.8 GB",
+      "repack_details": {
+        "features": [
+          "Based on Marvels_Spider-Man_Miles_Morales-FLT ISO release: flt-marvels_spider-man_miles_morales.iso (42,008,958,976 bytes)",
+          "Game version: v1.1116.0.0; Pre-purchase Entitlements DLC is included and activated",
+          "Missing language packs (9.5 GB) added, thanks to CarvingMan!",
+          "Bonus Soundtrack (130 MB) added, thanks to NoeRIη!",
+          "100% Lossless & MD5 Perfect: all files are identical to originals after installation",
+          "NOTHING ripped, NOTHING re-encoded",
+          "Selective Download feature: you may skip downloading and installing of voiceover packs you don’t need. English VOs are included by default",
+          "Significantly smaller archive size (compressed from cumulative 48.8 to 27.4~34.4 GB, depending on selected components)",
+          "Installation takes 5-15 minutes (depending on your system and selected components)",
+          "After-install integrity check so you could make sure that everything installed properly",
+          "HDD space after installation: up to 57 GB",
+          "Language can be changed in game settings",
+          "Repack uses XTool library by Razor12911",
+          "At least 2 GB of free RAM (inc. virtual) required for installing this repack"
+        ],
+        "title": "Repack Features"
+      },
+      "repack_size": "from 27.4 GB [Selective Download]",
+      "tags": [
+        "Action",
+        "Open world",
+        "Beat ’em up (Brawler)",
+        "Third-person",
+        "3D"
+      ],
+      "version": "v1.1116.0.0 "
     }
   ]
 }
