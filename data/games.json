@@ -3909,6 +3909,92 @@
         "3D"
       ],
       "version": "Latest"
+    },
+    {
+      "banner_image": "https://i4.imageban.ru/out/2025/01/29/827c080b6f44640b06a0eff80eb41ea5.jpg",
+      "companies": [
+        "Rocksteady Studios",
+        "Warner Bros. Interactive Entertainment"
+      ],
+      "download_links": {
+        "direct_links": [
+          {
+            "link": "https://paste.fitgirl-repacks.site/?48ceadad51e982bd#4yn98KrqysaPRbKYa2aw5zC8nzcE8etxBu3yaqBgzRYF",
+            "link_name": "Filehoster: DataNodes",
+            "text": "(speed & usability use IDM)"
+          },
+          {
+            "link": "https://paste.fitgirl-repacks.site/?7e429f39c8e6164c#GqhKLLbDhKZBVCfo46Nj57YE9SYRbJJazdGkDKvXyxPg",
+            "link_name": "Filehoster: FuckingFast",
+            "text": "(REALLY Fucking Fast 🙂)"
+          },
+          {
+            "link": "https://paste.fitgirl-repacks.site/?3fa4a465414b012d#2YYk9rVcngAxXngsDrzGWLM4DoQXtffA7BUKefvCDoze",
+            "link_name": "Filehoster: MultiUpload",
+            "text": "(10+ hosters, interchangeable use JDownloader2)"
+          }
+        ],
+        "torrent": [
+          {
+            "link": "https://paste.fitgirl-repacks.site/?fd2045e74857efbc#2ZxnwPmBCeykSs4vJBH9eV2MUyC6DVLxKC1KbF8wJZeo",
+            "link_name": "Filehoster: Torrent file only",
+            "text": "(speed & usability use Utorrent)"
+          }
+        ]
+      },
+      "game_details": {
+        "description": "From Rocksteady Studios, the creators of the Batman: Arkham series, Suicide Squad: Kill the Justice League is a genre-defying third-person action shooter where the ultimate band of misfits must do the impossible to save the world: Kill the Justice League. Join the newly “recruited” members of Amanda Waller’s infamous Task Force X (aka the Suicide Squad), Harley Quinn, Deadshot, Captain Boomerang and King Shark, as they set out on an impossible mission to Kill the Justice League. Drop into an expansive and dynamic open-world Metropolis ravaged by Brainiac’s invasion and terrorized by the heroes who once protected it. Each Squad member brings their own traversal mechanics to help them navigate a sprawling and battle-torn Metropolis, combining free-roaming exploration and combat verticality for an unforgettable experience. Players are free to experiment with a variety of different play styles to unleash maximum damage on their enemies. Whether in single player or online with up to three of your friends, players can take on this suicide mission their own way. Post-launch, players can expect a continuously evolving Metropolis with free new playable villains, environments, weapons, in-game events, and more, all included with purchase of the base game.",
+        "features": [
+          ""
+        ],
+        "no_return_mode": ""
+      },
+      "id": "288788",
+      "imagevid": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/315210/extras/Traversal_2.gif",
+      "images": [
+        "http://s01.riotpixels.net/data/90/56/90564718-1d62-47fd-a7dc-119930f18f6d.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/df/b2/dfb25c60-65eb-43bf-9836-ff93cc48a126.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/54/5a/545abd39-1b53-47c5-9443-5dc092409008.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/4b/0c/4b0cfbab-29e7-4b3b-9b02-cf4031a03da6.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/35/b4/35b4ef1b-c7bf-4616-85b1-07a1de0f1908.jpg.240p.jpg"
+      ],
+      "includes": [
+        "DLC",
+        "Bonus OST"
+      ],
+      "language": "ENG/MULTI13",
+      "name": "Suicide Squad: Kill the Justice League, v1.0.6.0 + Offline DLCs + CrackFix/EAC Bypass + Bonus Soundtrack",
+      "original_size": "118.2 GB",
+      "repack_details": {
+        "features": [
+          "Based on Suicide.Squad.Kill.the.Justice.League-RUNE ISO release: rune-suicide.squad.kill.the.justice.league.iso (85,819,686,912 bytes)",
+          "Suicide.Squad.Kill.the.Justice.League.Language.Pack-RUNE (38 GB) & Suicide.Squad.Kill.the.Justice.League.Crackfix-RUNE (62 MB) applied over",
+          "Bonus Soundtrack (241 MB) added",
+          "Game version: v1.0.6.0; Offline DLCs are included and activated",
+          "Copy contents of “_EAC Bypass” folder to the game root if the RUNE crackfix doesn’t fix “EAC not launched” error before the main menu for your system",
+          "100% Lossless & MD5 Perfect: all files are identical to originals after installation",
+          "NOTHING ripped, NOTHING re-encoded",
+          "Selective Download feature: you may skip downloading and installing of non-English voiceovers and bonus soundtrack",
+          "Significantly smaller archive size (compressed from cumulative 118.2 to 61.4~99.1 GB, depending on selected components)",
+          "Installation takes from 18 minutes (on 32-threads CPU, no optionals) up to 2.5 hours (on 4-threads CPU, all optionals)",
+          "After-install integrity check so you could make sure that everything installed properly",
+          "HDD space after installation: up to 138.5 GB",
+          "Language can be changed in game settings",
+          "Repack uses XTool library by Razor12911",
+          "At least 3 GB of free RAM (inc. virtual) required for installing this repack",
+          "Run the game via desktop icon or directly via “Stones\\Binaries\\Win64\\new-SuicideSquad_KTJL.exe”"
+        ],
+        "title": "Repack Features"
+      },
+      "repack_size": "from 61.4 GB [Selective Download]",
+      "tags": [
+        "Action",
+        "Shooter",
+        "Open world, Beat ’em up (Brawler)",
+        "Third person",
+        "3D"
+      ],
+      "version": "v1.0.6.0"
     }
   ]
 }
