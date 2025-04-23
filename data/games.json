@@ -4394,6 +4394,100 @@
         "3D"
       ],
       "version": "Latest"
+    },
+    {
+      "banner_image": "https://i3.imageban.ru/out/2023/04/11/8287c809fd4b1b56d784876b353afb0a.jpg",
+      "companies": [
+        "Capcom"
+      ],
+      "download_links": {
+        "direct_links": [
+          {
+            "link": "https://paste.fitgirl-repacks.site/?228d096a651b92fe#DUhfak5QMDoeGhBcjEH4F2xqbLsQvBt8dFvWBxhSsnUq",
+            "link_name": "Filehoster: DataNodes",
+            "text": "(speed & usability use IDM)"
+          },
+          {
+            "link": "https://paste.fitgirl-repacks.site/?8cd30ad05ce8b5e1#95Q1Ebn2E6FNmPvgwZa4WPL8gAaUqiRo4LwKLHrmuVBr",
+            "link_name": "Filehoster: FuckingFast",
+            "text": "(REALLY Fucking Fast 🙂)"
+          },
+          {
+            "link": "https://pastefg.hermietkreeft.site/?cf4b2dee8841f16b#ER2RJEnrH4seN5yi9LjogJDVeQHdiNP2nDjDNgQ1U6Ca",
+            "link_name": "Filehoster: MultiUpload",
+            "text": "(10+ hosters, interchangeable use JDownloader2)"
+          }
+        ],
+        "torrent": [
+          {
+            "link": "https://pastefg.hermietkreeft.site/?0ab03f87fb06b37f#8eMbwhF7DtbDg5k4wT1JB7G2VzdoYP6Qzqbnu3Qxofyc",
+            "link_name": "Filehoster: Torrent file only",
+            "text": "(speed & usability use Utorrent)"
+          }
+        ]
+      },
+      "game_details": {
+        "description": "Experience survival horror like never before in the eighth major installment in the storied Resident Evil franchise – Resident Evil Village. Set a few years after the horrifying events in the critically acclaimed Resident Evil 7 biohazard, the all-new storyline begins with Ethan Winters and his wife Mia living peacefully in a new location, free from their past nightmares. Just as they are building their new life together, tragedy befalls them once again.",
+        "features": [
+          "First-Person and Third-Person Action – Players will assume the role of Ethan Winters and experience every up-close battle and terrifying pursuit through a first-person perspective.",
+          "Familiar Faces and New Foes – Chris Redfield has typically been a hero in the Resident Evil series, but his appearance in Resident Evil Village seemingly shrouds him in sinister motives. A host of new adversaries inhabiting the enigmatic village will relentlessly hunt Ethan and hinder his every move as he attempts to make sense of the new nightmare he finds himself in.",
+          "A Living, Breathing Village – More than just a mysterious backdrop for the horrifying events that unfold in the game, the village is a character in its own right with mysteries for Ethan to uncover and terrors to escape from.",
+          "Trauma Pack",
+          "Extra Content Shop All Access Voucher",
+          "Mr. Raccoon Weapon Charm",
+          "Survival Resources Pack",
+          "Winters’ Expansion",
+          "Street Wolf Outfit"
+        ],
+        "no_return_mode": ""
+      },
+      "id": "201696",
+      "imagevid": "",
+      "images": [
+        "http://s01.riotpixels.net/data/9e/5f/9e5fe4c9-99c2-472f-b5c3-3253e366d9e3.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/e2/52/e2525ffc-0100-4702-90bc-8278c030e542.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/74/4f/744f3618-f22b-414e-8469-f49626e39a6a.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/4c/8d/4c8d346f-3281-41ca-b5c5-423e66d6baf8.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/05/ca/05cac35f-ce39-43e1-b039-5d5d3b085915.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/d3/0b/d30b1690-5218-42c8-babd-b44c586f532e.jpg.240p.jpg"
+      ],
+      "includes": [
+        "DLC",
+        "Bonus OST"
+      ],
+      "language": "RUS/ENG/MULTI13",
+      "name": "Resident Evil: Village – Gold Edition, Build 10415597 (Denuvoless) + All DLCs + Bonus Content + Crackfix",
+      "original_size": "35.8 GB",
+      "repack_details": {
+        "features": [
+          "Based on Resident.Evil.Village-RUNE ISO release: rune-resident.evil.village.iso (38,046,564,352 bytes)",
+          "Resident.Evil.Village.Crackfix-RUNE (71 MB) applied over",
+          "Alternative Goldberg+SSE crack/emu located in NoDVD folder after installation, thanks to CrazydentEvil!",
+          "Game version: Steam BuildID 10415597 (Denuvoless); all DLCs are included and activated",
+          "Bonus Content (Artworks & Soundtracks, 347 MB) added, thanks to NoeRIη!",
+          "100% Lossless & MD5 Perfect: all files are identical to originals after installation (ONLY when installed with all components!)",
+          "NOTHING ripped, NOTHING re-encoded",
+          "Selective Download feature: you can skip downloading and installing of “Village of Shadows” in-game videos (recommended for installation due to story connections), documentary videos, bonus content and voiceover packs you don’t need",
+          "Significantly smaller archive size (compressed from cumulative 35.8 to 19.5~24.1 GB, depending on selected components)",
+          "Installation takes 5-25 minutes (depending on your system and selected components)",
+          "After-install integrity check so you could make sure that everything installed properly",
+          "HDD space after installation: up to 36.9 GB (39.6 GB during installation)",
+          "Language can be changed in game settings",
+          "Repack uses XTool library by Razor12911",
+          "At least 2 GB of free RAM (inc. virtual) required for installing this repack"
+        ],
+        "title": "Repack Features"
+      },
+      "repack_size": "from 19.5 GB [Selective Download]",
+      "tags": [
+        "Action",
+        "Shooter",
+        "First-person",
+        "Third-person",
+        "3D",
+        "Horror"
+      ],
+      "version": "Latest"
     }
   ]
 }
