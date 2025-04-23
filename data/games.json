@@ -3522,6 +3522,99 @@
         "Japanese"
       ],
       "version": "v2008.007.003.005.004 "
+    },
+    {
+      "banner_image": "https://i1.imageban.ru/out/2025/03/08/b331821637e2e94805398a87c57b66b6.jpg",
+      "companies": [
+        "Visual Concepts",
+        "2K Games"
+      ],
+      "download_links": {
+        "direct_links": [
+          {
+            "link": "https://paste.fitgirl-repacks.site/?276196dc89904bc9#Agn56KE8rdEVdahV9HKfD2NyjnQY4QfGcJorhDnoPBxt",
+            "link_name": "Filehoster: DataNodes",
+            "text": "(speed & usability use IDM)"
+          },
+          {
+            "link": "https://paste.fitgirl-repacks.site/?bf5475d8f3337794#AZEsSngicnWHHnGzeMGAkzUJTyGUSf7Rok7CDfST8H14",
+            "link_name": "Filehoster: FuckingFast",
+            "text": "(REALLY Fucking Fast 🙂)"
+          },
+          {
+            "link": "https://paste.fitgirl-repacks.site/?1f492b546ed8e3ca#DhdVerJv1DGNbQnNPm9BmMvXh7JyvT5tV9n93cD7pXz3",
+            "link_name": "Filehoster: MultiUpload",
+            "text": "(10+ hosters, interchangeable use JDownloader2)"
+          }
+        ],
+        "torrent": [
+          {
+            "link": "https://paste.fitgirl-repacks.site/?26ecb204ed9bb738#DmdcMHMuwydv1Qdz1bN7hHzixfhDhi6YkAQDvgcVwjRY",
+            "link_name": "Filehoster: Torrent file only",
+            "text": "(speed & usability use Utorrent)"
+          }
+        ]
+      },
+      "game_details": {
+        "description": "Celebrate The Bloodline in Showcase. Compete online in MyGM. Expanded gameplay includes intergender wrestling, chain wrestling, barricade diving, the return of Promos + much more!",
+        "features": [
+          "A ROSTER FOR THE AGES – WWE 2K25 brings you an unparalleled lineup of current Superstars, Legends and Hall of Famers. The 300+ stacked roster spans multiple generations and features Seth “Freakin” Rollins, Undertaker, “The American Nightmare” Cody Rhodes, CM Punk, Jade Cargill, and more.",
+          "2K SHOWCASE: THE BLOODLINE’S DYNASTY – The all-new Showcase, hosted by “The Wiseman” Paul Heyman, celebrates one of the most historic family dynasties in wrestling. Relive legendary showdowns or dream matches between The Bloodline and WWE Superstars and Legends.",
+          "A UNIFIED MyRISE – Take control of your Superstar from the women’s or men’s divisions in a singular multi-gender MyRISE storyline where Bayley, Kevin Owens, and other Superstars infiltrate NXT in an attempt to take control of the entire WWE universe. Featuring new brawl environments, unlockable arenas, characters, and more—plus new ally storylines involving Jey Uso, Bianca Belair, and other WWE Superstars.",
+          "MyGM GOES WORLDWIDE – Take your show on the road with MyGM, now featuring online multiplayer. Draft WWE Superstars and Legends to your show’s roster and lead your brand through multi-week seasons.",
+          "YOUR UNIVERSE, YOUR WAY – New upgrades give greater control over your Universe experience featuring commentary-driven promos with new cutscenes, branching choices, and multiple outcomes.",
+          "EXPANDED GAMEPLAY – Intergender wrestling makes its long-awaited debut in the WWE 2K franchise! Additional features include the return of chain wrestling, Underground and Bloodline Rules match types, barricade diving, and more.",
+          "Deadman Edition Bonus Pack",
+          "The Bloodline Edition Bonus Pack",
+          "SuperCharger",
+          "Superstar Mega-Boost",
+          "MyRISE Boost",
+          "Wyatt Sicks Packs",
+          "The Rock Nation of Domination Pack"
+        ],
+        "no_return_mode": ""
+      },
+      "id": "154141",
+      "imagevid": "",
+      "images": [
+        "http://s01.riotpixels.net/data/ef/42/ef42aca5-b553-4353-90b4-16d1f399a586.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/9a/e3/9ae30ab2-e74e-4f8b-9a7c-60d88aa061af.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/33/81/3381940b-5b7f-4610-9039-34f3a7a0d572.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/7e/69/7e6938ed-4db1-4fb9-b115-133c2d328b1b.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/87/d0/87d0c996-b133-4ea4-a545-b7956b14755b.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/28/87/28879fc3-ab46-43d8-a3f1-7703475c4cd3.jpg.240p.jpg"
+      ],
+      "includes": [
+        "DLC",
+        "Bonus OST"
+      ],
+      "language": "ENG/MULTI6",
+      "name": "WWE 2K25, v1.03 + 7 DLCs (Monkey Repack)",
+      "original_size": "89 GB",
+      "repack_details": {
+        "features": [
+          "Based on WWE.2K25-RUNE ISO release: rune-wwe.2k25.iso (95,555,682,304 bytes)",
+          "Game version: v1.03; 7 DLCs are included and activated. Season Pass & Ringside Pass are not actual DLCs, so not listed here.",
+          "100% Lossless & MD5 Perfect: all files are identical to originals after installation",
+          "NOTHING ripped, NOTHING re-encoded",
+          "Slightly smaller archive size (compressed from 89 to 79.6 GB)",
+          "Installation takes 5-20 minutes (depending on your system)",
+          "After-install integrity check so you could make sure that everything installed properly",
+          "HDD space after installation: 90.5 GB",
+          "Language can be changed in “steam_emu.ini” file",
+          "Repack uses XTool library by Razor12911",
+          "At least 2 GB of free RAM (inc. virtual) required for installing this repack"
+        ],
+        "title": "Repack Features"
+      },
+      "repack_size": "79.6 GB",
+      "tags": [
+        "Arcade",
+        "Fighting",
+        "Sports",
+        "3D"
+      ],
+      "version": "v1.03 "
     }
   ]
 }
