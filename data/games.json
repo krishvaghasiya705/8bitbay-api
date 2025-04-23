@@ -4488,6 +4488,89 @@
         "Horror"
       ],
       "version": "Latest"
+    },
+    {
+      "banner_image": "https://i4.imageban.ru/out/2023/11/10/01dcc3d23d5e6742c92306d41de8850e.jpg",
+      "companies": [
+        "Bend Studio",
+        "PlayStation Mobile",
+        "Inc."
+      ],
+      "download_links": {
+        "direct_links": [
+          {
+            "link": "https://paste.fitgirl-repacks.site/?f81f4e2548b1d4f4#G3PfsBcuaN5MQz4Xpt4xzNFPiVr4os7RxFdrARxsrbLv",
+            "link_name": "Filehoster: FuckingFast",
+            "text": "(REALLY Fucking Fast 🙂)"
+          }
+        ],
+        "torrent": [
+          {
+            "link": "https://pastefg.hermietkreeft.site/?10c09dd7a4bf3cc1#3G3dVSRrJ7ZstLwiQiwbX3kTqipCN4FEGHDz5oa8gvFb",
+            "link_name": "Filehoster: Torrent file only",
+            "text": "(speed & usability use Utorrent)"
+          }
+        ]
+      },
+      "game_details": {
+        "description": "Days Gone is an open-world action-adventure game set in a harsh wilderness two years after a devastating global pandemic. Step into the dirt flecked shoes of former outlaw biker Deacon St. John, a bounty hunter trying to find a reason to live in a land surrounded by death. Scavenge through abandoned settlements for equipment to craft valuable items and weapons, or take your chances with other survivors trying to eke out a living through fair trade… or more violent means.",
+        "features": [
+          "A striking setting: From forests and meadows, to snowy plains and desert lava fields, the Pacific Northwest is both beautiful and lethal. Explore a variety of mountains, caves, mines and small rural towns, scarred by millions of years of volcanic activity.",
+          "Brutal encounters: With vicious gangs and hordes of Freakers roaming the land, you’ll need to make full use of a variety of customizable traps, weapons, and upgradable skills to stay alive. Don’t forget your Drifter bike, an invaluable tool in a vast land.",
+          "An ever-changing environment: Jump on the saddle of Deacon’s trusty motorbike and explore a dynamic world dramatically affected by the weather, a dramatic day/night cycle and the evolving Freakers, who adjust to their surroundings – and the people in it.",
+          "A compelling story: Lose yourself in a powerful tale of desperation, betrayal and regret, as Deacon St. John searches for hope after suffering a deep, personal loss. What makes us human when faced with the daily struggle for survival?"
+        ],
+        "no_return_mode": ""
+      },
+      "id": "105230",
+      "imagevid": "",
+      "images": [
+        "http://s01.riotpixels.net/data/aa/1e/aa1e54c1-21f9-4ed6-b4c4-dea8938bafb8.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/b1/c6/b1c66b8c-f1c6-4616-975a-781f46efa484.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/49/42/4942f9c9-576d-4dcc-934b-89ba9785e8ae.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/93/9b/939be215-b881-46f7-a649-2f09b10489dc.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/07/d5/07d55f09-fabb-4494-90ba-4f1da5c6ba6d.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/7a/94/7a948d26-7bc9-430a-b66f-48bfc4f2b3f7.jpg.240p.jpg"
+      ],
+      "includes": [
+        "DLC",
+        "Bonus OST"
+      ],
+      "language": "RUS/ENG/MULTI23",
+      "name": "Days Gone",
+      "original_size": "52.3 GB",
+      "repack_details": {
+        "features": [
+          "Based on Days_Gone-FLT ISO release: flt-days_gone.iso (55,810,387,968 bytes)",
+          "Updates from 1 to 7 (2.1 GB total) installed over, thanks to ClaudiaWhoosher!",
+          "Game version: v1.07 (Steam BuildID 10034136, December 1, 2022)",
+          "100% Lossless & MD5 Perfect: all files are identical to originals after installation",
+          "NOTHING ripped, NOTHING re-encoded",
+          "Selective Download feature: you may skip downloading of voiceover packs you don’t need. GUI/subtitles supported for all languages + English voiceovers are included by default",
+          "Yes, my repack doesn’t need additional voicepacks to enable subtitles in your desired language, unlike other repacks",
+          "Significantly smaller archive size (compressed from ciumulative 52.3 to 20.1~35.2 GB, depending on selected components)",
+          "Installation takes (w/o additional voiceovers): ~9 minutes on 16-threads CPU; ~14 minutes on 8-threads CPU; ~25 minutes on 4-threads CPU",
+          "After-install integrity check so you could make sure that everything installed properly",
+          "HDD space after installation: 60.1 GB",
+          "Language can be changed in game settings",
+          "Repack uses compression library by Razor12911",
+          "At least 2 GB of free RAM (inc. virtual) required for installing this repack"
+        ],
+        "title": "Repack Features"
+      },
+      "repack_size": "from 20.1 GB",
+      "tags": [
+        "Action",
+        "Adventure",
+        "Shooter",
+        "Open world",
+        "Stealth",
+        "Third-person",
+        "3D",
+        "Horror",
+        "Post-apocalypse"
+      ],
+      "version": " v1.07"
     }
   ]
 }
