@@ -3260,6 +3260,86 @@
         "Real-time"
       ],
       "version": "v1.001"
+    },
+    {
+      "banner_image": "https://i4.imageban.ru/out/2025/01/27/56e63ae1a49cf2415082a876a11c00ce.jpg",
+      "companies": [
+        "Koei Tecmo Games"
+      ],
+      "download_links": {
+        "direct_links": [
+          {
+            "link": "https://paste.fitgirl-repacks.site/?f9c8c216142150ba#FmGoAi9LWeusMFx5zWbhKwEbyQ58az9DweNFBG5jEnj5",
+            "link_name": "Filehoster: DataNodes",
+            "text": "(speed & usability use IDM)"
+          },
+          {
+            "link": "https://paste.fitgirl-repacks.site/?1e3625eee6519a8f#6D9JTfvVz5Jtw7jb68ZBMwQE8VqYDAjq57gfn6LmgYhQ",
+            "link_name": "Filehoster: FuckingFast",
+            "text": "(REALLY Fucking Fast 🙂)"
+          },
+          {
+            "link": "https://paste.fitgirl-repacks.site/?fb5a51b2368fb0cd#HdHxbrAruUSHwDWodKdfsrQNfT3m3coWno3PnUGR5Znm",
+            "link_name": "Filehoster: MultiUpload",
+            "text": "(10+ hosters, interchangeable use JDownloader2)"
+          }
+        ],
+        "torrent": [
+          {
+            "link": "https://paste.fitgirl-repacks.site/?bbc4f505fe97f645#5PJRvzp2Ana6otP6NJ3JC55k6GMEJ1vNSB1FMUGdctfH",
+            "link_name": "Filehoster: Torrent file only",
+            "text": "(speed & usability use Utorrent)"
+          }
+        ]
+      },
+      "game_details": {
+        "description": "Take on the role of Ryu Hayabusa, a ninja who has inherited the legendary “Dragon Sword” and takes on battles across the world, in this graphic remaster of the popular high-speed ninja action title that returns after 15 years! The world of “NINJA GAIDEN 2” remastered with rich visuals! – The stages, characters, effects, and lighting have been completely redesigned and remastered to provide realistic visuals. Unreal Engine 5 has been utilized to create stunning current-generation graphics, allowing players to immerse themselves more deeply in the story’s world. High-speed x violent action further evolved with the latest graphic expressions! – Gore elements such as dismemberment and blood have been remastered to enhance the action experience. Players can enjoy high-speed, violent action using a wide variety of weapons and techniques, including Japanese swords, shurikens, Kusari-gamas, and tonfas. Additional characters, mode for beginners, and elements from subsequent spin-off titles are also included! – This remaster includes additional elements from spin-off titles released after the original. Players can control three additional characters: Momiji, Ayane, and Rachel. The game also includes “HERO PLAY STYLE” mode that provides automatic support in challenging situations, making it accessible for those who may not be confident in their action skills.",
+        "features": [
+          ""
+        ],
+        "no_return_mode": ""
+      },
+      "id": "535699",
+      "imagevid": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3287520/extras/Furious_%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%E8%AA%AC%E6%98%8E_PV%E6%8A%9C%E7%B2%8B__1213.gif",
+      "images": [
+        "http://s01.riotpixels.net/data/d3/77/d3774ca5-02a2-4d1a-84d2-9c81dce10779.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/c0/25/c02565e8-de4e-4f9d-9947-7caa42cf3211.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/a5/8f/a58f2b04-1b60-4201-aa85-53b3ecde02e5.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/71/10/711017bd-3040-429f-972b-8f7ccc2906d7.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/cc/5d/cc5d5d9f-ef46-4a15-bf1c-faa7ae023276.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/16/10/16102ccf-891a-418b-8451-daf7bc8f018d.jpg.240p.jpg"
+      ],
+      "includes": [
+        "DLC",
+        "Bonus OST"
+      ],
+      "language": "ENG/MULTI8",
+      "name": "NINJA GAIDEN 2 Black, v1.0.5.0",
+      "original_size": "79.8 GB",
+      "repack_details": {
+        "features": [
+          "Based on NINJA.GAIDEN.2.Black-RUNE ISO release: rune-ninja.gaiden.2.black.iso (85,716,205,568 bytes)",
+          "Game version: v1.0.5.0",
+          "100% Lossless & MD5 Perfect: all files are identical to originals after installation",
+          "NOTHING ripped, NOTHING re-encoded",
+          "Significantly smaller archive size (compressed from 79.8 to 59.2 GB)",
+          "Installation takes from 20 minutes (on 32-threads CPU) up to ~2 hours (on 4-threads CPU)",
+          "After-install integrity check so you could make sure that everything installed properly",
+          "HDD space after installation: 81.1 GB",
+          "Language can be changed in game settings",
+          "Repack uses XTool library by Razor12911",
+          "At least 2 GB of free RAM (inc. virtual) required for installing this repack"
+        ],
+        "title": "Repack Features"
+      },
+      "repack_size": "59.2 GB",
+      "tags": [
+        "Action",
+        "Slasher",
+        "Third person",
+        "3D"
+      ],
+      "version": "v1.0.5.0"
     }
   ]
 }
