@@ -5018,6 +5018,86 @@
         "Cars"
       ],
       "version": "v1.6.0"
+    },
+    {
+      "banner_image": "http://i100.fastpic.ru/big/2018/0205/89/b960383c10fbe951fca58c43069d5889.jpg",
+      "companies": [
+        "Ubisoft Montreal / Ubisoft Entertainment"
+      ],
+      "download_links": {
+        "direct_links": [
+          {
+            "link": "https://paste.fitgirl-repacks.site/?3e37f8e8cb16e432#sW5ihjEwZFUoWfYE8wiC4MBh14yXWfHMaYchzGfZeAP",
+            "link_name": "Filehoster: DataNodes",
+            "text": "(speed & usability use IDM)"
+          },
+          {
+            "link": "https://paste.fitgirl-repacks.site/?7fb12d26ccf302a2#2q31KjNUhZ41iz2Sk2UWMjaDaqU1WdZ9d6TVnni8NhqC",
+            "link_name": "Filehoster: FuckingFast",
+            "text": "(REALLY Fucking Fast 🙂)"
+          }
+        ],
+        "torrent": [
+          {
+            "link": "http://sendfile.su/1449744",
+            "link_name": "Filehoster: Torrent file only",
+            "text": "(speed & usability use Utorrent)"
+          }
+        ]
+      },
+      "game_details": {
+        "description": "Ancient Egypt, a land of majesty and intrigue, is disappearing in a ruthless fight for power. Unveil dark secrets and forgotten myths as you go back to the one founding moment: The Origins of the Assassin’s Brotherhood. A COUNTRY TO DISCOVER Sail down the Nile, uncover the mysteries of the pyramids or fight your way against dangerous ancient factions and wild beasts as you explore this gigantic and unpredictable land. A NEW STORY EVERY TIME YOU PLAY Engage into multiple quests and gripping stories as you cross paths with strong and memorable characters, from the wealthiest high-born to the most desperate outcasts. EMBRACE ACTION-RPG Experience a completely new way to fight. Loot and use dozens of weapons with different characteristics and rarities. Explore deep progression mechanics and challenge your skills against unique and powerful bosses. GAZE IN WONDER Experience the action in a whole new light with Tobii Eye Tracking. The Extended View feature gives you a broader perspective of the environment, and the Dynamic Light and Sun Effects immerse you in the sandy dunes according to where you set your sights. Tagging, aiming and locking on your targets becomes a lot more natural when you can do it by looking at them. Let your vision lead the way and enhance your gameplay.",
+        "features": [
+          ""
+        ],
+        "no_return_mode": ""
+      },
+      "id": "865850",
+      "imagevid": "",
+      "images": [
+        "http://s01.riotpixels.net/data/a0/85/a0852474-9d4e-4d20-b69d-80e5cb18dbe7.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/c6/18/c618c79b-db10-450d-b921-41d2297f1860.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/14/08/1408bc72-6840-408b-8dc1-77b3f6554c11.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/8b/b8/8bb8ca3b-291f-417e-ae2b-c8702af2509c.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/e7/73/e7734e1a-3634-417a-ab30-f7ff032b47b4.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/47/0c/470c1eed-442e-4d7d-931e-d705906f6e1e.jpg.240p.jpg"
+      ],
+      "includes": [
+        "DLC",
+        "Bonus OST"
+      ],
+      "language": "RUS/ENG/MULTI15",
+      "name": "Assassin’s Creed: Origins – v1.5.1 + All DLCs",
+      "original_size": "66.7 GB",
+      "repack_details": {
+        "features": [
+          "Based on Assassins.Creed.Origins.The.Curse.of.the.Pharaohs-CODEX ISO release: codex-assassins.creed.origins.the.curse.of.the.pharaohs.iso (71,564,001,280 bytes)",
+          "Assassins.Creed.Origins.The.Curse.of.the.Pharaohs.Crackfix-CODEX (77 MB) applied over",
+          "Old crack is available in “_Cracks” folder in case the crackfix won’t work for you or works with bugs",
+          "Game version: v1.51; All DLCs included and activated. Note, that to get access to “Ambush at Sea” and “The Secrets of the First Pyramids” missions, you have to edit CODEX.ini and replace Offline=1 with Offline=0",
+          "100% Lossless & MD5 Perfect: all files are identical to originals after installation",
+          "NOTHING ripped, NOTHING re-encoded",
+          "Selective Download feature: you may skip downloading and installing voiceover packs you don’t need",
+          "Significantly smaller archive size (compressed from cumulative 66.7 to 28.1~31.6 GB, depending on selected components)",
+          "Installation takes: ~50 minutes on 16-threads CPU; ~1 hour 30 minutes on 8-threads CPU; ~3 hours on 4-threads CPU",
+          "After-install integrity check so you could make sure that everything installed properly",
+          "HDD space after installation: up to 74 GB (up to 78 GB during installation)",
+          "You can change the language in game settings",
+          "At least 2.5 GB of free RAM (inc. virtual) required for installing this repack",
+          "Like all my repacks, this one installs with lowered priority to allow you comfort browsing or whatever. This slowers installation a bit. To make it faster, while installing open processes list and change priority for AFR_x64.exe to “Normal” or “Above Normal”",
+          "Repack uses AFR library by Edison007 with a fix from Razor12911",
+          "If you played before with another release, and not my repack, you might want to change all “Player” strings to “CPY” in CODEX.ini, so your saves would auto-convert"
+        ],
+        "title": "Repack Features"
+      },
+      "repack_size": "from 28.1 GB [Selective Download]",
+      "tags": [
+        "Action",
+        "Open world",
+        "Third-person",
+        "3D"
+      ],
+      "version": "v1.5.1"
     }
   ]
 }
