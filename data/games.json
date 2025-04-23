@@ -4314,6 +4314,86 @@
         "3D"
       ],
       "version": "v1.465.282.0"
+    },
+    {
+      "banner_image": "http://i93.fastpic.ru/big/2017/0809/da/5456ea7264ba79cdcb76f9584f214fda.jpg",
+      "companies": [
+        "Ubisoft Montreal / Ubisoft Entertainment"
+      ],
+      "download_links": {
+        "direct_links": [
+          {
+            "link": "https://paste.fitgirl-repacks.site/?b378eb67e1064d0f#5fP9xHrbc6WrDkbpN6NM18gQR9cb1xmmGinWLJ7qDPwR",
+            "link_name": "Filehoster: DataNodes",
+            "text": "(speed & usability use IDM)"
+          },
+          {
+            "link": "https://paste.fitgirl-repacks.site/?db3ddb326465033f#74E7poCAozXzPm7RkQfhuCe8LP8JooDBY78Udm78RQPf",
+            "link_name": "Filehoster: FuckingFast",
+            "text": "(REALLY Fucking Fast 🙂)"
+          }
+        ],
+        "torrent": [
+          {
+            "link": "http://sendfile.su/1354260",
+            "link_name": "Filehoster: Torrent file only",
+            "text": "(speed & usability use Utorrent)"
+          }
+        ]
+      },
+      "game_details": {
+        "description": "The year is 1715. Pirates rule the Caribbean and have established their own lawless Republic where corruption, greediness and cruelty are commonplace. Among these outlaws is a brash young captain named Edward Kenway. His fight for glory has earned him the respect of legends like Blackbeard, but also drawn him into the ancient war between Assassins and Templars, a war that may destroy everything the pirates have built. Welcome to the Golden Age of Piracy.",
+        "features": [
+          ""
+        ],
+        "no_return_mode": ""
+      },
+      "id": "175702",
+      "imagevid": "",
+      "images": [
+        "http://s01.riotpixels.net/data/0d/11/0d1111b9-156b-4e82-bd2c-e38f99452e54.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/58/6a/586ab5cc-b63b-4ac5-ab86-462f740403da.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/54/2a/542a6276-5379-4d10-9acd-4224d2830968.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/bf/a8/bfa86e6e-2d3e-4ec4-bc76-01083e60b014.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/be/b7/beb7dcb7-26f5-4274-85e2-68970b6774c6.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/cc/86/cc86601d-5a78-4616-b45b-0a79856f4696.jpg.240p.jpg"
+      ],
+      "includes": [
+        "DLC",
+        "Bonus OST"
+      ],
+      "language": "RUS/ENG/MULTI15",
+      "name": "Assassin’s Creed IV: Black Flag – Jackdaw Edition",
+      "original_size": "29.2 GB",
+      "repack_details": {
+        "features": [
+          "Based on Assassins.Creed.IV.Black.Flag-RELOADED ISO release: rld-ac4bf.iso (24,835,420,160 bytes)",
+          "Assassins.Creed.IV.Black.Flag.Freedom.Cry-RELOADED (rld-a4fc.iso, 4,244,289,536 bytes) and ACIVBF_Update_v1.07_HF_AiO_With_DLC_for_RELOADED-CS (2,288,364,682 bytes) applied over",
+          "3DM crack included and all DLCs activated; “LowSync Save” by machine4578 can be found in game folder after installation – it unlocks Uplay Awards via save game trick",
+          "100% Lossless & MD5 Perfect: all files are identical to originals after installation",
+          "NOTHING ripped, NOTHING re-encoded",
+          "Selective download feature: you can skip downloading and installing of multiplayer files (cause you can’t play MP in cracked version anyway) and voicever packs you don’t need",
+          "Significantly smaller archive size (compressed from cumulative 29.2 to 4.9~8.6 GB, depending on selected components)",
+          "Installation takes 15-35 minutes (depending on your system and selected components)",
+          "After-install integrity check so you could make sure that everything installed properly",
+          "HDD space after installation: up to 27 GB",
+          "Game language can be changed in game settings: GUI, subtitles and voiceovers separately",
+          "At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+          "“Avelin” and “Freedom Cry” campaigns will be activated after you start main campaign, quit the game and re-run it again",
+          "To activate Uplay Awards, after first game run/save, copy “2.save” from “LowSync Save” to “save3dmgames” folder",
+          "To enable four cheat DLCs (Resource Pack, etc.) open “saves.ini” in “save3dmgames” folder and change “false” params to “true” ones"
+        ],
+        "title": "Repack Features"
+      },
+      "repack_size": "from 4.9 GB GB [Selective Download]",
+      "tags": [
+        "Action",
+        "Open world",
+        "Stealth, Pirate/Privateer",
+        "Third-person",
+        "3D"
+      ],
+      "version": "Latest"
     }
   ]
 }
